@@ -1,0 +1,38 @@
+    <div id="cirrus-carousel" class="carousel slide container" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        {% for item in site.data.highlights %}
+           {% if forloop.first == true %}
+        <li data-target="#cirrus-carousel" data-slide-to="0" class="active"></li>
+           {% else %}
+        <li data-target="#cirrus-carousel" data-slide-to="{{ forloop.index0 }}"></li>
+           {% endif %}
+        {% endfor %}
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        {% for item in site.data.highlights %}
+           {% if forloop.first == true %}
+        <div class="item active">
+           {% else %}
+        <div class="item">
+           {% endif %}
+          <a href="{{ item.link || relative_url }}">
+            <img class="{{ item.number }}" src="{{ item.image | relative_url }}" alt="{{ item.text }}">
+            <div class="carousel-caption">
+              <h2>{{ item.title }}</h2>
+              <p>{{ item.text }}</p>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+      <a class="left carousel-control" href="#cirrus-carousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#cirrus-carousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div><!-- /.carousel -->
+

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    <!-- Navbar for home page -->
+    {% include navbar_home.html %}
+    <div style="clear: both;"></div>
+
+    <div class="container-fluid">
+       <!-- First row contains large logo and carousel -->
+       <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5">
+             {% include banner.html %}
+          </div>
+          <div class="hidden-xs col-sm-6 col-md-7 col-lg-7">
+             {% include carousel.html %}
+          </div>
+       </div>
+       <!-- Second row contains news and main item -->
+       <div class="row">
+          <div class="col-md-5 col-lg-5">
+              {% include news_panel.html %}
+          </div>
+          <div class="col-md-7 col-lg-7">
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Get Access <span class="text-muted">Use Cirrus for your work.</span></h2>
+          <p class="lead">Details on how to get access to Cirrus for both industry simulations and academic research.
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+        </div>
+      </div>
+          </div>
+       </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include bootstrap_js.html %}
+
+  </body>
+
+</html>
