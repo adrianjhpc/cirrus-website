@@ -21,7 +21,7 @@ For access to Cirrus and EPCC expretise please contact George Graham
 Academic Access
 ---------------
 
-### EPSRC Access
+### EPSRC Access
 
 If your research falls under the EPSRC remit then you can use a number of
 different access routes (please follow the links for further information):
@@ -40,6 +40,6 @@ that Cirrus can support the research you wish to undertake.
 
 ### Other UK Research Councils and Academic Researchers outside UK
 
-Please contact the Cirrus Helpdesk in the first instance to discuss 
+Please contact the [Cirrus Helpdesk](/support/) in the first instance to discuss 
 access to Cirrus.
 
