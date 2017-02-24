@@ -15,17 +15,16 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav navbar-right">
-                <li><a href="{{ "/access/" | relative_url }}">Get Access</a></li>
-                <li><a href="#">Documentation</a></li>
-                <li><a href="#">Support</a></li>
+               <li><a href="{{ "/access/" | relative_url }}">Get Access</a></li>
+                <li><a href="{{ "/docs/" | relative_url }}">Documentation</a></li>
+                <li><a href="{{ "/support/" | relative_url }}">Support</a></li>
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Cirrus <span class="caret"></span></a>
+                  <a href="{{ "/about/" | relative_url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Cirrus <span class="caret"></span></a>
                   <ul class="dropdown-menu">
-                    <li><a href="#">Hardware</a></li>
-                    <li><a href="#">Software</a></li>
-                    <li><a href="#">Service Catalogue</a></li>
-                    <li><a href="#">Our Team</a></li>
-                    <li><a href="#">Policies</a></li>
+                    <li><a href="{{ "/about/hardware.html" | relative_url }}"">Hardware</a></li>
+                    <li><a href="{{ "/about/software.html" | relative_url }}">Software</a></li>
+                    <li><a href="{{ "/about/people/" | relative_url }}">Our Team</a></li>
+                    <li><a href="{{ "/about/policies/" | relative_url }}">Policies</a></li>
                   </ul>
                 </li>
               </ul>

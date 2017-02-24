@@ -19,10 +19,17 @@ a.btn-default {
    color: #007d7b;
 }
 
+/* Local customisation for carousel */
 .carousel .carousel-inner img {
    object-fit: cover;
    overflow: hidden;
    min-width: 100%;
    min-height: 100%;
+}
+
+/* General page styles */
+.cirrus-content {
+   padding-left: 50px;
+   padding-right: 50px;
 }
 
