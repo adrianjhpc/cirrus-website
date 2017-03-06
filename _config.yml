@@ -36,5 +36,5 @@ exclude:
 collections:
   news:
     output: true
-    permalink: about/news/:name.:output_ext
+    permalink: about/news/:name:output_ext
 
