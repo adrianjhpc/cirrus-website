@@ -1,12 +1,12 @@
 - title: Cirrus
-  text: Read more about the new Cirrus system
+  text: Welcome to the new Cirrus service
   image: /images/carousel/Edinburgh_Supercomputer_073_p.jpg
-  link: /news/welcome_to_cirrus.html 
+  link: /about/news/welcome-to-cirrus.html 
   number: first
 
 - title: Accelerator
   text: Access for Industry
   image: /images/carousel/accelerator_carousel.png
-  link: https://www.epcc.ed.ac.uk/work-us/industry-engagement-programmes/accelerator
+  link: /about/news/accelerator-access.html
   number: second
   

@@ -16,7 +16,7 @@
            {% else %}
         <div class="item">
            {% endif %}
-          <a href="{{ item.link }}">
+          <a href="{{ item.link | relative_url }}">
             <img class="{{ item.number }}" src="{{ item.image | relative_url }}" alt="{{ item.text }}">
             <div class="carousel-caption">
               <h2>{{ item.title }}</h2>
