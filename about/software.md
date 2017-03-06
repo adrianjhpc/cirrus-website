@@ -20,8 +20,14 @@ The Cirrus Service includes a number of centrally installed scientific software
 packages maintained by EPCC staff and other experts..
 
 A list of this software with details of how to access it and run jobs (including
-example job submission scripts) is available in the
-[Software Packages Documentation](http://cirrus.readthedocs.io).
+example job submission scripts) is available in the online documentation, see:
+
+* [Software Packages Documentation](http://cirrus.readthedocs.io/en/latest/software-packages/introduction.html)
+
+we also record instructions for compiling many packages on Cirrus that users may
+find useful in a GitHub repository, see:
+
+* [GitHub: Cirrus Packages Build Unstructions](https://github.com/EPCCed/cirrus-packages)
 
 Application Development Environment
 -----------------------------------
@@ -36,10 +42,14 @@ In short:
 
 For more information see:
 
-* [User Guide: Application Development Environment](http://cirrus.readthedocs.io)
+* [User Guide: Application Development Environment](http://cirrus.readthedocs.io/en/latest/user-guide/development.html)
+* [User Guide: Software Libraries](http://cirrus.readthedocs.io/en/latest/user-guide/libraries.html)
 
 Job Submission System
 ---------------------
 
-ARCHER uses the PBS Pro job submission system.
+Cirrus uses the PBS Pro job submission system. More information on running jobs on
+Cirrus and PBS Pro options can be found in the User Guide:
+
+* [User Guide: Running Jobs](http://cirrus.readthedocs.io/en/latest/user-guide/batch.html)
 

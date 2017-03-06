@@ -7,7 +7,7 @@
    
    <div class = "panel-body">
       {% assign sorted = (site.news | sort: date) | reverse %}
-      {% for item in sorted %}
+      {% for item in sorted limit:3 %}
         <dl>
           <dt><a href="{{ item.url }}">{{ item.title }}</a> ({{ item.date | date: '%-d %B %Y' }})</dt>
           <dd>{{ item.excerpt | strip_html }} <a href="{{ item.url }}">Read more&hellip;</a></dd>
