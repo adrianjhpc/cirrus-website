@@ -35,7 +35,7 @@ available on Cirrus can be found at:
 
 ## How can I get help on using Cirrus?
 
-Users on Cirrus are supported by EPCC's wold-leading team of
+Users on Cirrus are supported by EPCC's world-leading team of
 advanced computing specialists with expertise in HPC, data
 science, software engineering, and much more. Initial support
 is provided by the [Cirrus User Guide](http://cirrus.readthedocs.io/)
