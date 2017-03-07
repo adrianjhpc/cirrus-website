@@ -16,7 +16,9 @@ and EPCC can provide both access to HPC resources and also consultancy to
 effectively exploit HPC resources.
 
 For access to Cirrus and EPCC expretise please contact George Graham
-(<g.graham@epcc.ed.ac.uk>, +44 131 651 3460).
+(<g.graham@epcc.ed.ac.uk>, +44 131 651 3460) and see the 
+[EPCC Accelerator](https://www.epcc.ed.ac.uk/work-us/industry-engagement-programmes/accelerator)
+page.
 
 Academic Access
 ---------------
@@ -26,11 +28,11 @@ Academic Access
 If your research falls under the EPSRC remit then you can use a number of
 different access routes (please follow the links for further information):
 
-* [Instant Access](instant.md): small amounts of time and storage space to explore use
+* [Instant Access](instant.html): small amounts of time and storage space to explore use
 of Cirrus for your research
-* [Tier-2 National Open Access (NOA)](noa.md): Larger amounts of compute time and
+* [Tier-2 National Open Access (NOA)](noa.html): Larger amounts of compute time and
 storage space for up to 12 months
-* [Grant Access](grant.md): Larger amounts of time and storage for lifetime of 
+* [Grant Access](grant.html): Larger amounts of time and storage for lifetime of 
 research grant
 
 In all cases, you should complete a Cirrus Technical Assessment form. This
@@ -38,7 +40,10 @@ short form allows our technical experts to ensure that your project
 will get the most out of access to Cirrus and will help us to make sure
 that Cirrus can support the research you wish to undertake.
 
-### Other UK Research Councils and Academic Researchers outside UK
+### Other grant awarding bodies and researchers outside the UK
+
+* [Grant Access](grant.html): Larger amounts of time and storage for lifetime of 
+research grant
 
 Please contact the [Cirrus Helpdesk](/support/) in the first instance to discuss 
 access to Cirrus.
