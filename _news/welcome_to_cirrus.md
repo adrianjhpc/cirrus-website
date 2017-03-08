@@ -15,8 +15,8 @@ for industry.
 
 ## What is Cirrus?
 
-Cirrus is based around the core compute resource: a 200 node 
-[SGI ICE XA](http://www.sgi.com/products/servers/ice/ice_xa.html)
+Cirrus is based around the core compute resource: a 280 node 
+(10,080 core) [SGI ICE XA](http://www.sgi.com/products/servers/ice/ice_xa.html)
 high performance computing (HPC) cluster. The compute nodes 
 each contain two 18-core Xeon *Broadwell* processors and have
 256 GiB memory. The compute nodes are all linked using a low
