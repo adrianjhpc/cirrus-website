@@ -1,15 +1,14 @@
 <footer style="margin-top: 25px" class="site-footer">
 
-  <a href="http://www.epcc.ed.ac.uk">
-  <img style="float: left; padding-left: 20px;" src="{{ "/images/logos/epcc_logo.png" | relative_url }}" />
-  </a>
-
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
+  <div class="container-fluid">
+     <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 text-center">
+           <a href="http://www.epcc.ed.ac.uk"><img src="{{ "/images/logos/epcc_logo.png" | relative_url }}" /></a>
+           <a href="http://www.ed.ac.uk"><img src="{{ "/images/logos/uoe_logo_padded.png" | relative_url }}" /></a>
+           <a href="http://www.epsrc.ac.uk"><img src="{{ "/images/logos/epsrc-highres.jpg" | relative_url }}" /></a>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center">
+        <ul style="padding-top: 20px" class="contact-list">
           <li>
             {% if site.author %}
               {{ site.author | escape }}
@@ -21,10 +20,9 @@
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
         </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center">
+        <ul style="padding-top: 20px" class="social-media-list">
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
@@ -37,13 +35,8 @@
           </li>
           {% endif %}
         </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-
+        </div>
+     </div>
   </div>
 
 </footer>
