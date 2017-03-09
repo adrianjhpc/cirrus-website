@@ -5,12 +5,12 @@ layout: page
 Hardware
 ========
 
-The Cirrus facility is based around a SGI ICE XA 59 node cluster.
+The Cirrus facility is based around a SGI ICE XA 280 node cluster.
 
 Intel ICE XA Cluster
 --------------------
 
-The Cirrus compute provision consists of 56 compute nodes connected
+The Cirrus compute provision consists of 280 compute nodes connected
 together by a single Infiniband fabric.
 
 There are 3 login nodes that share a common software environment and
@@ -35,8 +35,8 @@ There are three levels of cache, configured as follows:
 -   L2 Cache 256 KB (per core)
 -   L3 Cache 45 MB (shared)
 
-There are 56 compute nodes on Cirrus giving a total of 2,016 cores).
-When employing hyperthreads, the core count doubles to 4,032. NB
+There are 280 compute nodes on Cirrus giving a total of 10,080 cores.
+When employing hyperthreads, the core count doubles to 20,160. Note:
 hyperthreads are currently switched on by default
 
 Infiniband fabric
@@ -54,7 +54,7 @@ There is currently a single filesystem available on Cirrus: the /lustre
 filesystem. This filesystem is a collection of three high-performance,
 parallel Lustre filesystems.
 
-There is currently a total of 112 TiB available in `/lustre` on Cirrus.
+The Lustre file system has  a total of 406 TiB available.
 The cluster login and compute nodes mount the storage as /lustre, and
 all home directories are available on all nodes.
 
@@ -79,12 +79,5 @@ please see the description on Wikipedia:
     Description](https://en.wikipedia.org/wiki/Lustre_(file_system))
 
 The default striping on the Lustre filesystem is 1 stripe, and the
-default stripe size is 1 MiB. There are 4 OSTs.
+default stripe size is 1 MiB.
 
-The parallel I/O performance has been measured by writing to a single
-shared file using MPI I/O. All cores per node were writing
-simultaneously. Best performance was withh 4 nodes (144 cores) writing
-tof 4 stripes of 1 MiB and was found to be around 1.5 GB/s.
-
-Performance was evaluated using the EPCC "benchio" application, found
-at: <https://github.com/ARCHER-CSE/parallel-io>
