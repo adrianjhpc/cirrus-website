@@ -15,13 +15,17 @@ Cirrus has been designed to support a wide range of industry applications
 and EPCC can provide both access to HPC resources and also consultancy to
 effectively exploit HPC resources.
 
-For access to Cirrus and EPCC expretise please contact George Graham
+For access to Cirrus and EPCC expertise please contact George Graham
 (<g.graham@epcc.ed.ac.uk>, +44 131 651 3460) and see the 
 [EPCC Accelerator](https://www.epcc.ed.ac.uk/work-us/industry-engagement-programmes/accelerator)
 page.
 
 Academic Access
 ---------------
+
+Cirrus is one of the [EPSRC](http://www.epsrc.ac.uk) Tier-2 National HPC facilities and
+so the access method for academic researchers is different depending on if your 
+research falls within EPSRC remit or not.
 
 ### EPSRC Access
 
