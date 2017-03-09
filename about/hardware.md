@@ -36,8 +36,7 @@ There are three levels of cache, configured as follows:
 -   L3 Cache 45 MB (shared)
 
 There are 280 compute nodes on Cirrus giving a total of 10,080 cores.
-When employing hyperthreads, the core count doubles to 20,160. Note:
-hyperthreads are currently switched on by default
+When employing hyperthreads, the core count doubles to 20,160.
 
 Infiniband fabric
 -----------------
@@ -63,7 +62,7 @@ management noded called the Rack Leader and NFS mounts the root file
 system from this management node.
 
 *Note:* There are currently no backups of data on Cirrus as backing up
-the whole Lustre file system would adversly affect the performance of
+the whole Lustre file system would adversely affect the performance of
 write access for simulations. The nature of the Lustre parallel file
 system means that there is data resiliance in the case of failures of
 individual hardware components. However, we strongly advise that you

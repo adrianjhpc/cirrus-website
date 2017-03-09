@@ -30,7 +30,7 @@ We use Readthedocs to host the Cirrus documentation for a number of reasons:
   of the information
 * The user community can contribute to the documentation simply by
   forking the open source GitHub repoistory and creating pull requests
-* The documentation is writtin in simple plain-text format making it
+* The documentation is written in simple plain-text format making it
   easy to update and maintain
 
 ## Can I contribute to the documentation?
