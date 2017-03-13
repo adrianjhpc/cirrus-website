@@ -25,7 +25,7 @@ Accelerator can be used as a:
 How can I use Accelerator?
 --------------------------
 
-[EPCC](http://www.epcc.ed.ac.uk) provides a number of different way to get access
+[EPCC](http://www.epcc.ed.ac.uk) provides a number of different ways to get access
 through Accelerator:
 
 * Direct Access: For users conversant with using HPC platforms, direct and immediate
@@ -33,7 +33,7 @@ access on a pay-per-use basis is provided;
 * Self-Assessed Free Trial: We can set you up with a free trial on any of our service
 machines so that you can undertake your own test drive, piloting and benchmarking activities;
 * Assisted Adopter Programme: We will work with you to facilitate the seamless mapping of
-your in-house workflows complete with user specific documentation and training.
+your in-house workflows, complete with user specific documentation and training.
 
 Get in touch
 ------------
