@@ -4,7 +4,7 @@ title: Introduction to Supercomputing MOOC
 date: 2017-03-09
 ---
 
-"Supercomputing" is a free 5-week online course designed for anyone interested in leading-edge computing technology, supercomputers or the role that computer simulation takes in modern science and engineering.
+"Supercomputing" is a free 5-week online course designed for anyone interested in leading-edge computing technology, supercomputers, or the role that computer simulation takes in modern science and engineering.
 
 ## Supercomputing
 
