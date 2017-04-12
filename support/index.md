@@ -14,7 +14,6 @@ The EPCC Helpdesk can be reached by:
 
 * Email epcc-support@epcc.ed.ac.uk
 * via EPCC SAFE https://safe.epcc.ed.ac.uk/safadmin/
-* Phone: +44 (0)131 650 5000
 
 Please try and provide as much background information as possible as this will
 speed up the processing time considerably. Existing Cirrus users will be asked
