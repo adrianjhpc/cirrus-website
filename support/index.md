@@ -23,7 +23,7 @@ using and the error message they get.
 ## How the helpdesk ticket system works
 
 When a query is submitted by email or through the SAFE, it is placed in the SAFE
-query system. Phone queries are entered into the system by the helpdesk operator.
+query system.
 
 When you email your query, you will normally get an automatic acknowledgment by
 email, including a tracking ID, within a few minutes. If you submit your query
