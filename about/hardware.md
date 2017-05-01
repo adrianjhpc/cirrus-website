@@ -49,9 +49,9 @@ IB fabric and all Lustre file system IO traverses the IB fabric.
 Filesystems and Data Infrastructure
 -----------------------------------
 
-There is currently a single filesystem available on Cirrus: the /lustre
-filesystem. This filesystem is a collection of three high-performance,
-parallel Lustre filesystems.
+There is currently a single file system available on Cirrus: /lustre is
+a Lustre parallel file system desgined to give high read/write bandwidth
+for parallel calculations running on Cirrus.
 
 The Lustre file system has  a total of 406 TiB available.
 The cluster login and compute nodes mount the storage as /lustre, and
