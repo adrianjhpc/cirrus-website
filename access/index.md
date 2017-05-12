@@ -6,7 +6,7 @@ Access Cirrus
 =============
 
 Information on how to get access to Cirrus. How you get access depends on 
-if you are working in industry or academia.
+if you are working in industry or academia and how much resource you require.
 
 Industry Access
 ---------------
