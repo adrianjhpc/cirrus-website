@@ -10,8 +10,10 @@ access to Cirrus for a limited number of CPUh over a six month period.
 This mode of access should give new users the opportunity to test Cirrus
 for their purposes and work towards a fully peer reviewed application,
 either via a [standard grant](grant.html) or via
-[National Open Access calls](noa.html). An extension will only be granted
+[Open Access calls](noa.html). An extension will only be granted
 in exceptional cases.
+
+Only one Instant Access project is available to each person.
 
 Application Proceedure
 ----------------------
@@ -23,6 +25,6 @@ A [Cirrus Instant Access Technical Assessment Form](ta/Cirrus-TA-Instant-form.do
 shouldbe completed by you and sent to the [Cirrus Helpdesk](/support/).
 
 The Cirrus CSE service will evaluate the technical feasibility of the project,
-while EPSRC will ensure that the work lies within its remit.
+and the service management will ensure that the work lies within EPSRC remit.
 
 These short projects are not evaluated further, unless an extension is required.
