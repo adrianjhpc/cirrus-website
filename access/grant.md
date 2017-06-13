@@ -12,6 +12,13 @@ A completed
 [Grant/Open Access Technical Assessment (TA)](ta/Cirrus-TA-GrantOpen-form.docx) must be uploaded
 along with the application as a supporting document. 
 
+Cirrus should be added to EPSRC Je-S applications in the following way 
+
+1. Go to the "Research Council Facilities" section 
+2. Select the facility "Other" from the drop down menu, use "Cirrus (Tier-2 HPC)" as the name of the facility in the "Proposed Usage box" 
+3.The "Units" text box should contain the number of CPUh you are requesting along with the unit specifier, e.g. "20000 CPUh" 
+4. The notional cost of access to the facility should be included in the access costs text box. (This is the number you calculate from your CPUh number and the cost per CPUh.) 
+
 **Cost of access to Cirrus is still being finalised, if you wish to
 include Cirrus on an EPSRC grant then please contact the
 [Cirrus Helpdesk](/support/).**
