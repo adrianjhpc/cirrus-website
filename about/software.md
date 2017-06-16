@@ -22,7 +22,7 @@ packages maintained by EPCC staff and other experts.
 A list of this software with details of how to access it and run jobs (including
 example job submission scripts) is available in the online documentation, see:
 
-* [Software Packages Documentation](http://cirrus.readthedocs.io/en/latest/software-packages/introduction.html)
+* [Cirrus Online Documentation](http://cirrus.readthedocs.io)
 
 We also record instructions for compiling many packages on Cirrus that users may
 find useful in a GitHub repository, see:
