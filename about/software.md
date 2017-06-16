@@ -43,7 +43,6 @@ In short:
 For more information see:
 
 * [User Guide: Application Development Environment](http://cirrus.readthedocs.io/en/latest/user-guide/development.html)
-* [User Guide: Software Libraries](http://cirrus.readthedocs.io/en/latest/user-guide/libraries.html)
 
 Job Submission System
 ---------------------
