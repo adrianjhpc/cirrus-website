@@ -9,7 +9,7 @@ EPCC are offering an opportunity for early access to Cirrus.
 
 Key details:
 
-* A total of 11 million CPUh are available through this Early Access opportunity
+* A total of 11 million core hours are available through this Early Access opportunity (each Cirrus node has 36 cores)
 * Resources to be used before 1 October 2017
 * Open to research in EPSRC science remit
 * Only one Early Access project is available to each person
