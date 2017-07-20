@@ -32,7 +32,6 @@ research falls within EPSRC remit or not.
 If your research falls under the EPSRC remit then you can use a number of
 different access routes (please follow the links for further information):
 
-* [Early Access](early.html): large scale access until 1 October 2017 with 11 million core hours available in total
 * [Instant Access](instant.html): small amounts of time and storage space to explore use
 of Cirrus for your research
 * [Tier-2 National Open Access (NOA)](noa.html): Larger amounts of compute time and
