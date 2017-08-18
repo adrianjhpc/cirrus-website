@@ -1,35 +1,29 @@
-/* Fix issues with carousel button colors */
-a.btn-lg {
-  color: #fff; 
+/*
+ * Local styles for Cirrus website
+ */
+.bordertabstyle {
+   border-collapse: collapse;
 }
-a.btn-default {
-  color: #007d7b; 
+.bordertabstyle th {
+   background: #eee;
+   font-style: bold;
 }
-
-/* Styles for banner */
-.cirrus-banner {
-   display: block;
-   width: 100%;
-}
-.cirrus-banner > p {
-   font-size: 125%;
-   text-align: left;
-   padding-top: 25px;
-   padding-left: 25px;
-   color: #007d7b;
+.bordertabstyle table, th, td {
+   border: 1px solid black;
+   padding: 5px;
 }
 
-/* Local customisation for carousel */
-.carousel .carousel-inner img {
-   object-fit: cover;
-   overflow: hidden;
-   min-width: 100%;
-   min-height: 100%;
+.vertical-box {
+    display: flex;
+    align-items: center;
 }
 
-/* General page styles */
-.cirrus-content {
-   padding-left: 50px;
-   padding-right: 50px;
+footer {
+    margin-top: 25px;
+}
+
+ul {
+   list-style-type: square;
+   list-style-position: inside;
 }
 

@@ -1,16 +1,15 @@
 ---
-layout: page
+layout: section
+title: Closing Accounts and Projects
+summary: Policy on end of life procedures for Cirrus user accounts and projects
 ---
-
-Policy on end of life procedures for Cirrus user accounts and projects
-======================================================================
 
 This page describes what happens when an account or project is no longer
 required on Cirrus, or a user leaves a project. These situations are
 most likely to come about during one of the following three scenarios:
 
 1.  The retirement of project (usually three months after project end)
-2.  A PI tidying up a project requesting the removal of user(s) no
+2.  A Principle Investigator (PI) tidying up a project requesting the removal of user(s) no
     longer working on the project
 3.  A user wishing his/her own account to be removed
 

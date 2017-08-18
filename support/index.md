@@ -1,19 +1,18 @@
 ---
-layout: page
+layout: section
+title: Support
+summary: Ask any questions you have about Cirrus
 ---
 
-# EPCC Helpdesk
+## EPCC Helpdesk
 
 The EPCC Helpdesk is the first point of contact for all questions relating
-to the Cirrus Service.
+to the Cirrus facility.
 
 Support is available Monday to Friday from
 08:30 until 18:00, excluding UK public holidays.
 
-The EPCC Helpdesk can be reached by:
-
-* Email epcc-support@epcc.ed.ac.uk
-* via EPCC SAFE https://safe.epcc.ed.ac.uk/safadmin/
+The EPCC Helpdesk can be reached by e-mail [epcc-support@epcc.ed.ac.uk](mailto:epcc-support@epcc.ed.ac.uk).
 
 Please try and provide as much background information as possible as this will
 speed up the processing time considerably. Existing Cirrus users will be asked
@@ -22,8 +21,7 @@ using and the error message they get.
 
 ## How the helpdesk ticket system works
 
-When a query is submitted by email or through the SAFE, it is placed in the SAFE
-query system.
+When a query is submitted by email it is placed in the SAFE query system.
 
 When you email your query, you will normally get an automatic acknowledgment by
 email, including a tracking ID, within a few minutes. If you submit your query

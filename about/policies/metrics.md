@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: section
+title: User Queries
+summary: Policy for dealing with support requests 
 ---
-
-Policy for User Queries
-=======================
 
 This page describes the level of service we expect to meet with regards
 to User Queries and Requests. There are a few different catorgories of

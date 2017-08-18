@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: section
+title: Cirrus Documentation
+summary: Find out how to make best use of Cirrus
 ---
 
-# Cirrus Documentation
-
-
 ## Cirrus User Guide
-
 
 The Cirrus User Guide is currently hosted on Readthedocs:
 
@@ -35,8 +33,7 @@ We use Readthedocs to host the Cirrus documentation for a number of reasons:
 
 ## Can I contribute to the documentation?
 
-Yes! A guide on how to contribute is available in the documentation
-repo at:
+Yes! A guide on how to contribute is available in the documentation repo at:
 
 * [https://github.com/EPCCed/cirrus-docs](https://github.com/EPCCed/cirrus-docs)
 

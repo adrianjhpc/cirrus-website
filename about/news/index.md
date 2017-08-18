@@ -1,4 +1,0 @@
----
-layout: news_list
----
-

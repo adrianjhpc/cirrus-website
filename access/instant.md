@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: section
+title: Instant Access
+summary: Pump-priming access to test Cirrus for your research
 ---
 
 Apply for Instant Access to Cirrus
@@ -13,7 +15,9 @@ either via a [standard grant](grant.html) or via
 [Open Access calls](noa.html). An extension will only be granted
 in exceptional cases.
 
-Only one Instant Access project is available to each person.
+**Note:** Only research in EPSRC remit is eligible for Cirrus Instant Access.
+
+**Note:** Only one Instant Access project is available to each person.
 
 Application Proceedure
 ----------------------

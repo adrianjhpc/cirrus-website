@@ -1,14 +1,11 @@
 ---
-layout: page
+layout: section
+title: Cirrus Hardware
+summary:
 ---
 
-Hardware
-========
-
-The Cirrus facility is based around a SGI ICE XA 280 node cluster.
-
-Intel ICE XA Cluster
---------------------
+SGI/HPE ICE XA Cluster
+---------------------
 
 The Cirrus compute provision consists of 280 compute nodes connected
 together by a single Infiniband fabric.
@@ -46,7 +43,7 @@ and login node has a single ib0 interface. The IB interface is FDR, with
 a bandwidth of 54.5 Gb/s. The Lustre servers have two connections to the
 IB fabric and all Lustre file system IO traverses the IB fabric.
 
-Filesystems and Data Infrastructure
+File systems and Data Infrastructure
 -----------------------------------
 
 There is currently a single file system available on Cirrus: /lustre is

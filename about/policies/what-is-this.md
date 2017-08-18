@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: section
+title: Terms and Conditions Clarification
+summary:
 ---
-
-What is this?
-=============
 
 In contracts, a variety of terms may be implied by law, that is, they
 are treated as if they are there, even though they are not included in

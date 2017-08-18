@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: section
+title: Personal Data and Privacy Policy
+summary: 
 ---
-
-Privacy Policy
-==============
 
 In the [Terms and Conditions of Access](tandc.html), the service
 undertakes to observe this Policy. The service provider is also bound by

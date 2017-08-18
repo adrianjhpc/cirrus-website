@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: section
+title: Cirrus Software
+summary:
 ---
 
 Software
@@ -11,7 +13,7 @@ with links to the appropriate sections of the [Cirrus Documentation](../docs/).
 Operating System
 ----------------
 
-Cirrus runs the CentOS 7 Linux operating system.
+Cirrus login and compute nodes run the CentOS 7 Linux operating system.
 
 Scientific Software
 -------------------

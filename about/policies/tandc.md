@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: section
+title: Terms and Condtions of Access
+summary:
 ---
-
-Terms and Conditions
-====================
 
 These Terms and Conditions of Access are presented to each user when
 they register. We anticipate that they will change rarely, if at all.

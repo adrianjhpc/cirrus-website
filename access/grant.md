@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: section
+title: Grant Access
+summary: Adding Cirrus access to research grants
 ---
 
 Access through EPSRC grants

@@ -1,42 +1,18 @@
-<footer style="margin-top: 25px" class="site-footer">
+<!-- footer Start -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-manu">
+          <ul>
+            <li><a href="{{ site.baseurl }}/about">About Us</a></li>
+            <li><a href="{{ site.baseurl }}/support">Support</a></li>
+          </ul>
+        </div>
+        <p>Content by <a href="http://www.epcc.ed.ac.uk">EPCC</a>.</p>
 
-  <div class="container-fluid">
-     <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 text-center">
-           <a href="http://www.epcc.ed.ac.uk"><img src="{{ "/images/logos/epcc_logo.png" | relative_url }}" /></a>
-           <a href="http://www.ed.ac.uk"><img src="{{ "/images/logos/uoe_logo_padded.png" | relative_url }}" /></a>
-           <a href="http://www.epsrc.ac.uk"><img src="{{ "/images/logos/epsrc-highres.jpg" | relative_url }}" /></a>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center">
-        <ul style="padding-top: 20px" class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 text-center">
-        <ul style="padding-top: 20px" class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-        </div>
-     </div>
+        <p>Copyright &copy; Design &amp; Developed by <a href="http://www.themefisher.com">Themefisher</a>. All rights reserved.</p>
+      </div>
+    </div>
   </div>
-
 </footer>
