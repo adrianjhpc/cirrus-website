@@ -19,7 +19,7 @@ The Cirrus User Guide is currently hosted on Readthedocs:
 SAFE is the web interface used for account and resource management on Cirrus.
 The documentation for Cirrus users using SAFE is also on Readthedocs:
 
-* [Cirrus SAFE Documentation](http://cirrus.readthedocs.io/en/latest/safe-guide/introduction.html)
+* [Cirrus SAFE Documentation (as part of the EPSRC Tier-2 SAFE)](http://tier2-safe.readthedocs.io)
 
 ## Why Readthedocs?
 
