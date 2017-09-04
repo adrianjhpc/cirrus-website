@@ -6,13 +6,13 @@ summary: Ask any questions you have about Cirrus
 
 ## EPCC Helpdesk
 
-The EPCC Helpdesk is the first point of contact for all questions relating
+The Helpdesk is the first point of contact for all questions relating
 to the Cirrus facility.
 
 Support is available Monday to Friday from
 08:30 until 18:00, excluding UK public holidays.
 
-The EPCC Helpdesk can be reached by e-mail [epcc-support@epcc.ed.ac.uk](mailto:epcc-support@epcc.ed.ac.uk).
+The Helpdesk can be reached by e-mail [support@cirrus.ac.uk](mailto:support@cirrus.ac.uk).
 
 Please try and provide as much background information as possible as this will
 speed up the processing time considerably. Existing Cirrus users will be asked
