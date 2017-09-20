@@ -14,6 +14,13 @@ for more information:
 * [Cirrus Hardware](hardware.html)
 * [Cirrus Software](software.html)
 
+## Service Catalogue
+
+Cirrus provides a range of services. The different services are listed in the 
+Cirrus Service Catalogue:
+
+* [Cirrus Service Catalogue (pdf)](Cirrus_Service_Catalogue.pdf)
+
 ## Policies
 
 The Cirrus policies form an integrated whole, based on the Terms and
