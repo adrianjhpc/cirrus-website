@@ -36,9 +36,9 @@ research falls within EPSRC remit or not.
 |-
 | [Instant Access](instant.html) | Always Open | Always Open | EPSRC Remit Only | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
 |-
-| [Grant Access](grant.html) | Always Open | Always Open | | [Grant Access TA Form (Word)](ta/Cirrus-TA-Grant-form.docx) |
+| [Grant Access](grant.html) | Always Open | Always Open | | [Grant Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
 |-
-| [RAP Open Access](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/) | 12 Oct 2017 | 21 Sep 2017 | EPSRC Remit Only | [RAP Open Access TA Form (ODT)](https://www.epsrc.ac.uk/files/funding/calls/2017/tier2taform/) |
+| [RAP Open Access](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/) | 12 Oct 2017 | 21 Sep 2017 | EPSRC Remit Only | [Grant Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
 |-
 
 ### EPSRC Access
