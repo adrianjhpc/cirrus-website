@@ -35,6 +35,7 @@ research falls within EPSRC remit or not.
 | Call (link) | Closing Date | TA Receipt Deadline | Notes | TA Form Link |
 |-
 | [Instant Access](instant.html) | Always Open | Always Open | EPSRC Remit Only | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
+| [Scottish Seedcorn](seedcorn.html) | Always Open | Always Open | Scottish Institution Only, Any Remit | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
 |-
 | [Grant Access](grant.html) | Always Open | Always Open | | [Grant Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
 |-
