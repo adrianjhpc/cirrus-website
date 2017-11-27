@@ -4,6 +4,15 @@ title: About Cirrus
 summary: Information on the Cirrus facility
 ---
 
+## Acknowledging Cirrus
+
+You should use the following phrase to acknowledge Cirrus in all research outputs that have used the facility:
+
+This work used the Cirrus UK National Tier-2 HPC Service at EPCC
+(http://www.cirrus.ac.uk).
+
+You should also tag outputs with the keyword Cirrus@EPCC.
+
 ## Technology
 
 The facility is based around a 280 node SGI ICE XA HPC system with a DDN Lustre
