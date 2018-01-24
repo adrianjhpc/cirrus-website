@@ -35,11 +35,11 @@ research falls within EPSRC remit or not.
 | Call (link) | Closing Date | TA Receipt Deadline | Notes | TA Form Link |
 |-
 | [Instant Access](instant.html) | Always Open | Always Open | EPSRC Remit Only | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
-| [Scottish Seedcorn](seedcorn.html) | Always Open | Always Open | Scottish Institution Only, Any Remit | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
+| [Scottish Academic Access](scottish.html) | Always Open | Always Open | Scottish Institution Only, Any Remit | [Scottish Academic Access TA Form (Word)](ta/Cirrus-TA-ScotAccess-form.docx) |
 |-
-| [Grant Access](grant.html) | Always Open | Always Open | | [Grant Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
+| [Grant Access](grant.html) | Always Open | Always Open | | [Grant/RAP Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
 |-
-| RAP Open Access | Next call due Spring 2018 | | EPSRC Remit Only | [Grant Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
+| RAP Open Access | Next call due Spring 2018 | | EPSRC Remit Only | [Grant/RAP Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
 |-
 
 ### EPSRC Access
@@ -52,6 +52,14 @@ different access routes (please follow the links for further information):
 * [Grant Access](grant.html): Larger amounts of time and storage for lifetime of research grant
 
 In all cases, you should complete a Cirrus Technical Assessment form. This short form allows our technical experts to ensure that your project will get the most out of access to Cirrus and will help us to make sure that Cirrus can support the research you wish to undertake.  
+
+### Access for academics at Scottish institutions
+
+If you are working at a Scottish institution you can get access to Cirrus for your research - either on a trial basis
+to test the service for your research or on a larger scale for the use of Cirrus in a research programme. There is
+no restriction on research area remit for Scottish academic access. For both trial and larger access, applicants
+should use the the same technical assessment form. For more information see the
+[Scottish Academic Access page](scottish.html).
 
 ### Other grant awarding bodies and researchers outside the UK
 
