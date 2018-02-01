@@ -10,6 +10,14 @@ Access Cirrus
 Information on how to get access to Cirrus. How you get access depends on 
 if you are working in industry or academia and how much resource you require.
 
+Resource Units
+--------------
+
+Access to Cirrus is currently granted in units of:
+
+* CPUh for compute allocations: 1 Cirrus CPUh is the equivalent of 1 core-hour;
+* GiB for disk allocations: 1 GiB is 1048576 kB.
+
 Industry Access
 ---------------
 
