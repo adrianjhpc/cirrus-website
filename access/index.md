@@ -58,8 +58,11 @@ In all cases, you should complete a Cirrus Technical Assessment form. This short
 If you are working at a Scottish institution you can get access to Cirrus for your research - either on a trial basis
 to test the service for your research or on a larger scale for the use of Cirrus in a research programme. There is
 no restriction on research area remit for Scottish academic access. For both trial and larger access, applicants
-should use the the same technical assessment form. For more information see the
+should use the the same Scottish technical assessment form. For more information see the 
 [Scottish Academic Access page](scottish.html).
+
+**Note:** If you working at a Scottish institution and wish to include Cirrus access on a Grant proposal, you
+should use the [Grant Access process](grant.html) rather than the Scottish Academic Access route.
 
 ### Other grant awarding bodies and researchers outside the UK
 
