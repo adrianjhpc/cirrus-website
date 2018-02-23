@@ -47,7 +47,7 @@ research falls within EPSRC remit or not.
 |-
 | [Grant Access](grant.html) | Always Open | Always Open | | [Grant/RAP Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
 |-
-| RAP Open Access | Next call due Spring 2018 | | EPSRC Remit Only | [Grant/RAP Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
+| [RAP Open Access](https://www.epsrc.ac.uk/funding/calls/resourceallocationpanel-rap-openaccesstotier2-spring2018/) | 10 Apr 2018 | 22 Mar 2018 | EPSRC Remit Only | [Grant/RAP Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
 |-
 
 ### EPSRC Access
