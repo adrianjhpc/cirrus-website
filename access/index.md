@@ -42,7 +42,7 @@ research falls within EPSRC remit or not.
 |-
 | Call (link) | Closing Date | TA Receipt Deadline | Notes | TA Form Link |
 |-
-| [Instant Access](instant.html) | Always Open | Always Open | EPSRC Remit Only | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
+| [Instant Access](instant.html) | Always Open | Always Open | | [Instant Access TA Form (Word)](ta/Cirrus-TA-Instant-form.docx) |
 | [Scottish Academic Access](scottish.html) | Always Open | Always Open | Scottish Institution Only, Any Remit | [Scottish Academic Access TA Form (Word)](ta/Cirrus-TA-ScotAccess-form.docx) |
 |-
 | [Grant Access](grant.html) | Always Open | Always Open | | [Grant/RAP Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
@@ -74,6 +74,7 @@ should use the [Grant Access process](grant.html) rather than the Scottish Acade
 
 ### Other grant awarding bodies and researchers outside the UK
 
+* [Instant Access](instant.html): small amounts of time and storage space to explore use of Cirrus for your research
 * [Grant Access](grant.html): Larger amounts of time and storage for lifetime of 
 research grant
 
