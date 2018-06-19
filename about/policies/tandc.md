@@ -113,4 +113,4 @@ These Terms and Conditions are governed by the laws of England and the
 English courts.
 
 If you have any questions about these Terms and Conditions, please mail
-to the [EPCC Helpdesk](mailto:epcc-support@epcc.ed.ac.uk).
+to the [Cirrus Helpdesk](mailto:support@cirrus.ac.uk).
