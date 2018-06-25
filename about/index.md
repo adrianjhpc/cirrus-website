@@ -8,8 +8,7 @@ summary: Information on the Cirrus facility
 
 You should use the following phrase to acknowledge Cirrus in all research outputs that have used the facility:
 
-This work used the Cirrus UK National Tier-2 HPC Service at EPCC
-(http://www.cirrus.ac.uk).
+*This work used the Cirrus UK National Tier-2 HPC Service at EPCC (http://www.cirrus.ac.uk) funded by the University of Edinburgh and EPSRC (EP/P020267/1)*
 
 You should also tag outputs with the keyword Cirrus@EPCC.
 
