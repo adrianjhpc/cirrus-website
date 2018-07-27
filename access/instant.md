@@ -20,7 +20,7 @@ in exceptional cases.
 Application Proceedure
 ----------------------
 
-You can apply for a maximum of 7,000 CPUh over a six month period to test
+You can apply for a maximum of 20,000 CPUh over a six month period to test
 the Cirrus service for your work.
 
 A [Cirrus Instant Access Technical Assessment Form](ta/Cirrus-TA-Instant-form.docx)
