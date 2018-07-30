@@ -2,63 +2,31 @@
 
 Cirrus is EPCC's Tier-2 High Performance Computing (HPC) cluster.
 
-This repository contains the website for the service available at: http://www.cirrus.ac.uk
+This repository contains the website for the service available at:
+<http://www.cirrus.ac.uk>
 
-How to Contribute
------------------
-To contribute to this website, first you have to fork it on GitHub and clone it to your machine, see `Fork a Repo <https://help.github.com/articles/fork-a-repo/>`_ for the GitHub documentation on this process.
+## How to Contribute
 
-Once you have made your changes and updated your Fork on GitHub you will need to `Open a Pull Request <https://help.github.com/articles/using-pull-requests/>`_.
+To contribute to this website, first you have to fork it on GitHub and
+clone it to your machine, see [Fork a Repo](https://help.github.com/articles/fork-a-repo/) for the GitHub
+documentation on this process.
 
-Building the documentation on a local Windows machine
-#####################################################
+Once you have made your changes and updated your Fork on GitHub you will
+need to [Open a Pull Request](https://help.github.com/articles/using-pull-requests/).
 
-Install the following:-
+## Building the website locally
 
-* `Anaconda Python <https://store.continuum.io/cshop/anaconda>`_.
+You do not need to be able to build the website locally to make changes but it can
+be useful to see what effect your changes have before opening a Pull Request.
 
-To build the HTML documentation run::
+If you wish to build the website locally, then you should install Jekyll:
 
-    make html
+- <https://jekyllrb.com/>
 
-If you want to build the PDF documentation you will need:
+Once Jekyll is installed, you can test the website with:
 
-* `GNU Make <http://gnuwin32.sourceforge.net/packages/make.htm>`_
-* `MikTeX <http://miktex.org/download>`_
+```
+make serve
+```
 
-Then from the command line, the following will build the .pdf file ::
-
-    make latexpdf
-
-On first run, MikTeX will prompt you to install various extra LaTeX packages.
-
-Building the documentation on a local Linux machine
-###################################################
-
-Have
-
-* Python 2
-* sphinx
-
-installed, then run ::
-
-     make html
-
-Building the documentation on a local Mac machine
-#################################################
-
-For the HTML documentation you will need ``sphinx``. If you do not already have a python distribution installed, we recommend you install `Anaconda Python <https://store.continuum.io/cshop/anaconda>`_.
-
-To build the HTML documentation run::
-
-    make html
-
-
-Making Changes to the Documentation
------------------------------------
-
-The documentation consists of a series of `reStructured Text <http://sphinx-doc.org/rest.html>`_ files which have the ``.rst`` extension.
-These files are then automatically converted to HTMl and combined into the web version of the documentation by sphinx.
-It is important that when editing the files the syntax of the rst files is followed.
-If there are any errors in your changes the build will fail and the documentaion  will not update, you can test your build locally by running ``make html``.
-The easiest way to learn what files should look like is to read the ``rst`` files already in the repository.
+This will run a temporary webserver from which you can view the updated website locally.
