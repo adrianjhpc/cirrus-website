@@ -9,12 +9,6 @@ Remit and aims
 
 RAP Open Access is available through regular calls throughout the service.
 
-|-
-| Call (link) | Closing Date | TA Receipt Deadline | Notes | TA Form Link |
-|-
-| [RAP Open Access](https://www.epsrc.ac.uk/funding/calls/tier2openaccess/) | 12 Oct 2017 | 21 Sep 2017 | EPSRC Remit Only | [Grant Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
-|-
-
 **Note:** that RAP Open Access is restricted to projects in the EPSRC remit.
 
 EPSRC offers access to Cirrus through calls for proposals to the RAP
