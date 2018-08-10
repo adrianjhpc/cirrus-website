@@ -34,7 +34,7 @@ periodic essential maintenance on HPE electrical and mechanical support equipmen
 
 Additional maintenance sessions can be scheduled for major hardware or software updates; major upgrades to facility plant and infrastructure; acceptance testing following major service upgrades and statutory electrical testing.
 
-### Upcoming Maintenance Sessions
+### Upcoming Maintenance Sessions
 
 #### 0900-1700 BST, 22 August 2018
 
