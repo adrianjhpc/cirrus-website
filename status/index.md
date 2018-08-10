@@ -40,8 +40,8 @@ Additional maintenance sessions can be scheduled for major hardware or software 
 
 Login, Data Services Node (DSN) and Compute Nodes will all be unavailable during this maintenance session.
 
-**Activites planned:**
-* Updates to PBS queue layouts to improve capacity control
+**Activities planned:**
+* Updates to PBS queue layouts to provide more flexibility
 * Installation of squashfs-tools to support pulling Singularity container images from DockerHub
 * Installation of Intel 18 compilers and libraries
 * Removal of Spack modulefiles path from default MODULEPATH to improve clarity of which software modules are available
