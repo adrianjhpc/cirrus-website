@@ -8,11 +8,11 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-- Today's maintenance is currently over-running.  We hope to restore service soon.
+- No current issues.
 
 ### Recent Issues
 
-- No recent issues
+- Maintenance 19th September over-ran but the service is now restored.  Please contact the helpdesk if you experience any issues.
 
 ## Service Calendar and Maintenance
 
