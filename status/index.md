@@ -8,7 +8,7 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-- No open issues
+- Today's maintenance is currently over-running.  We hope to restore service soon.
 
 ### Recent Issues
 
