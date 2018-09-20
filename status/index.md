@@ -8,11 +8,11 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-- No open issues
+- No current issues.
 
 ### Recent Issues
 
-- No recent issues
+- Maintenance 19th September over-ran but the service is now restored.  Please contact the helpdesk if you experience any issues.
 
 ## Service Calendar and Maintenance
 
@@ -34,7 +34,6 @@ periodic essential maintenance on HPE electrical and mechanical support equipmen
 
 Additional maintenance sessions can be scheduled for major hardware or software updates; major upgrades to facility plant and infrastructure; acceptance testing following major service upgrades and statutory electrical testing.
 
-### Upcoming Maintenance Sessions
+### Upcoming Maintenance Sessions
 
 None planned
-
