@@ -8,15 +8,11 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-- **2018-09-21: Network issues affecting Cirrus access:** The University of Edinburgh is currently experiencing intermittent network issues. This
-  is affecting user login access to Cirrus. Running and queued jobs are currently unaffected.
-
-- **2018-09-20: Gaussian software currently inaccesible:** The Gaussian software is currently not accessible to Cirrus users. If you try to
-  use Gaussian, you will see an error similar to `g16: command not found`. We are working to fix this at the moment.
+- **2018-09-20: Gaussian software currently inaccesible:** The Gaussian software is currently not accessible to Cirrus users. If you try to use Gaussian, you will see an error similar to `g16: command not found`. We are working to fix this at the moment.
 
 ### Recent Issues
 
-- Maintenance 19th September over-ran but the service is now restored.  Please contact the helpdesk if you experience any issues.
+- **2018-09-21: Network issues affecting Cirrus access:** The University of Edinburgh is currently experiencing intermittent network issues. This is affecting user login access to Cirrus. Running and queued jobs are currently unaffected.
 
 ## Service Calendar and Maintenance
 
