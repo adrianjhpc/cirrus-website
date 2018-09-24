@@ -39,5 +39,6 @@ Additional maintenance sessions can be scheduled for major hardware or software 
 1100-1400 BST, Mon 24 Sep 2018
 
 Emergency maintenance to rectify issues that are currently preventing the Gaussian software from running on the service.
+**Please note: this maintenance is presently over-running.  Our team are working to restore access as soon as possible.**
 
 
