@@ -8,6 +8,8 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
+- **2018-09-25: Cirrus unavailable:** Cirrus is currently unavailable due to issues with the Lustre file system. We are currently working with the file system vendor to fix this issue.
+
 - **2018-09-20: Gaussian software currently inaccesible:** The Gaussian software is currently not accessible to Cirrus users. If you try to use Gaussian, you will see an error similar to `g16: command not found`. We are working to fix this at the moment.
 
 ### Recent Issues
@@ -36,9 +38,6 @@ Additional maintenance sessions can be scheduled for major hardware or software 
 
 ### Upcoming Maintenance Sessions
 
-1100-1400 BST, Mon 24 Sep 2018
-
-Emergency maintenance to rectify issues that are currently preventing the Gaussian software from running on the service.
-**Please note: this maintenance is presently over-running.  Our team are working to restore access as soon as possible.**
+None currently planned.
 
 
