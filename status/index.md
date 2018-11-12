@@ -12,11 +12,7 @@ summary: Up to date status of the Cirrus service
 
 ### Recent Issues
 
-- **2018-09-25: Cirrus unavailable:** Cirrus is currently unavailable due to issues with the Lustre file system. We are currently working with the file system vendor to fix this issue.
-
-- **2018-09-21: Network issues affecting Cirrus access:** The University of Edinburgh is currently experiencing intermittent network issues. This is affecting user login access to Cirrus. Running and queued jobs are currently unaffected.
-
-- **2018-09-20: Gaussian software currently inaccesible:** The Gaussian software is currently not accessible to Cirrus users. If you try to use Gaussian, you will see an error similar to `g16: command not found`. We are working to fix this at the moment.
+- No recent issues
 
 ## Service Calendar and Maintenance
 
@@ -40,6 +36,22 @@ Additional maintenance sessions can be scheduled for major hardware or software 
 
 ### Upcoming Maintenance Sessions
 
-None currently planned.
+#### 0900-1700 GMT, 21 November 2018 
+
+Login, Data Services Node (DSN) and Compute Nodes will all be unavailable during this maintenance session. 
+
+Activities planned: 
+
+- Change ncpus available per node from 72 to 36
+- Remove node exclusive for standard compute nodes 
+- Reconfiguration of hardware distribution
+- Enable additional system monitoring
+
+Impact of changes on users: 
+
+- Job scripts that request ncpus > 36 will no longer work on Cirrus. These scripts should be modified 
+  to set ncpus=36
+- Jobs that want node exclusive access *must* specify `-l place=scatter:excl` as an option to `qsub` 
+  (either on the command line or as `#PBS -l place=scatter:excl` in their job submission script
 
 
