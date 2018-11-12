@@ -43,8 +43,8 @@ Login, Data Services Node (DSN) and Compute Nodes will all be unavailable during
 Activities planned: 
 
 - Change ncpus available per node from 72 to 36
-- Remove node exclusive for standard compute nodes 
-- Reconfiguration of hardware distribution
+- Remove default node exclusive for standard compute nodes 
+- Reconfiguration of hardware distribution in Cirrus racks
 - Enable additional system monitoring
 
 Impact of changes on users: 
