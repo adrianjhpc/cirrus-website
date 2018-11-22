@@ -8,11 +8,11 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-- **2018-11-21** Issues with PBS configuration stopping jobs from starting. There is currently an issue with PBS configuration that is preventing many user jobs from starting. We are working to fix the problem.
+- No current issues
 
 ### Recent Issues
 
-- No recent issues
+- **2018-11-21** Issues with PBS configuration was stopping jobs from starting. Issue resolved just after 11pm 2018-11-21.
 
 ## Service Calendar and Maintenance
 
