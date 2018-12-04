@@ -4,8 +4,8 @@ title: Cirrus Hardware
 summary:
 ---
 
-SGI/HPE ICE XA Cluster
----------------------
+SGI/HPE 8600 Cluster
+--------------------
 
 The Cirrus compute provision consists of 282 compute nodes connected
 together by a single Infiniband fabric. 280 of these are standard 
