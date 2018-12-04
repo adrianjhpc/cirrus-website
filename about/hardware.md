@@ -16,7 +16,7 @@ file system with the compute nodes.
 
 ### Compute Nodes
 
-#### Standard compute nodes
+#### Standard compute nodes
 
 Cirrus standard compute nodes each contain two 2.1 GHz, 18-core Intel Xeon
 E5-2695 (Broadwell) series processors. Each of the cores in these
