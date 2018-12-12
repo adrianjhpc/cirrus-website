@@ -8,20 +8,11 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-**2018-11-23** We are investigating an issue with Lustre mounts on the compute nodes that may cause some applications that use MPI-IO to fail with error messages similar to:
-
-```
-This requires fcntl(2) to be implemented. As of 8/25/2011 it is not. Generic MPICH Message: File locking failed in ADIOI_Set_lock(fd C,cmd F_SETLKW/7,type F_RDLCK/0,whence 0) with return value FFFFFFFF and errno 26. 
-- If the file system is NFS, you need to use NFS version 3, ensure that the lockd daemon is running on all the machines, and mount the directory with the 'noac' option (no attribute caching). 
-- If the file system is LUSTRE, ensure that the directory is mounted with the 'flock' option. 
-ADIOI_Set_lock:: Function not implemented 
-ADIOI_Set_lock:offset 0, length 32 
-application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0 
-```
+- No current issues
 
 ### Recent Issues
 
-- **2018-11-21** Issues with PBS configuration was stopping jobs from starting. Issue resolved just after 11pm 2018-11-21.
+- No recent issues
 
 ## Service Calendar and Maintenance
 
@@ -45,11 +36,11 @@ Additional maintenance sessions can be scheduled for major hardware or software 
 
 ### Upcoming Maintenance Sessions
 
-#### 0900-1700 GMT, 21 November 2018 
+- No sessions scheduled
 
-Login, Data Services Node (DSN) and Compute Nodes will all be unavailable during this maintenance session. 
+#### Changes made during Recent Maintenance Sessions
 
-Activities planned: 
+##### 0900-1700 GMT, 21 November 2018 
 
 - Change ncpus available per node from 72 to 36
 - Remove default node exclusive for standard compute nodes 
