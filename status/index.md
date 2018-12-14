@@ -36,7 +36,9 @@ Additional maintenance sessions can be scheduled for major hardware or software 
 
 ### Upcoming Maintenance Sessions
 
-- No sessions scheduled
+#### 0900-1700 GMT, 7 January 2019
+
+Electrical work is taking place at the ACF datacentre. All Cirrus nodes (login, data services, compute) will be unavailable during this time.
 
 #### Changes made during Recent Maintenance Sessions
 
