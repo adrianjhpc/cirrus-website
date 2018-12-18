@@ -20,19 +20,20 @@ A.  Removal of Cirrus account and deletion of all data from the account
 B.  The re-owning of the Cirrus account within an Cirrus project
     (typically to PI)
 
-To carry out either A or B above requires bi-lateral consent: If a PI
-requests an account is removed or re-owned, the relevant user will be
-informed and has the chance to state an objection. An account can only
-be re-owned within an Cirrus project. Likewise, if a user requests an
-account is deleted, the PI will be informed and has the chance to object
-(or the opportunity to request re-owning instead). In either case a time
-limit of 2 weeks will be given for the user/PI to raise an objection.
-Any objection will be dealt with on a case-by-case basis involving the
-PI. If no objections are raised within the time limit, the re-owning or
-deletion will occur.
+ A user's right to use Cirrus is granted by a project. Our policy is to treat the account 
+ and associated data as the property of the user and it is the user's responsibility to 
+ ensure that any data they store on Cirrus  is handled appropriately.
 
-When a project is due to end, users will receive notification of the
-closure of the project and its accounts 3 months before the accounts are
-due to close. Reminders will be sent to users 1 month before the
-accounts are due to close with a follow up 2 weeks before the accounts
-are closed.
+A user may request their account be deleted or have its ownership transferred to the project.
+
+A project manager may request an account be deleted, revoking the user's right to use the system. 
+Users will be notified and given a period of 2 weeks to remove data from their account before it is finally removed.
+
+A project manager may request ownership of an account be transferred to the project. 
+The user will be given a time limit of 2 weeks to object to this transfer. If no objection is 
+raised in this period the account ownership will then be transferred to the project. This 
+is intended to cover the situation where an account owner is no longer in contact with 
+the project and cannot request the transfer themselves.
+
+When a project is due to end, the PI will receive notification of the closure of the project 
+and its accounts 3 months before the accounts are closed and cleaned. 
