@@ -15,7 +15,7 @@ Resource Units
 
 Access to Cirrus is currently granted in units of:
 
-* CPUh for compute allocations: 1 Cirrus CPUh is the equivalent of 1 core-hour;
+* Core-h for compute allocations: 1 Cirrus Core-h is the equivalent of 1 physical core used for 1 hour;
 * GiB for disk allocations: 1 GiB is 1048576 kB.
 
 Industry Access
@@ -47,7 +47,7 @@ research falls within EPSRC remit or not.
 |-
 | [Grant Access](grant.html) | Always Open | Always Open | | [Grant/RAP Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
 |-
-| [RAP Open Access](https://epsrc.ukri.org/funding/calls/rapopenaccesstier2autumn2018/) | 9 Oct 2018 | 25 Sep 2018 | EPSRC Remit Only | See call page |
+| RAP Open Access | Expected Spring 2019 | TBC | EPSRC Remit Only | See call page |
 |-
 
 ### EPSRC Access

@@ -8,7 +8,7 @@ Apply for Instant Access to Cirrus
 ==================================
 
 As a pump priming opportunity for new users, Cirrus offers instant
-access to Cirrus for a limited number of CPUh over a six month period.
+access to Cirrus for a limited number of Core-h over a six month period.
 This mode of access should give new users the opportunity to test Cirrus
 for their purposes and work towards a fully peer reviewed application,
 either via a [standard grant](grant.html) or via
@@ -20,7 +20,7 @@ in exceptional cases.
 Application Proceedure
 ----------------------
 
-You can apply for a maximum of 20,000 CPUh over a six month period to test
+You can apply for a maximum of 20,000 Core-h over a six month period to test
 the Cirrus service for your work.
 
 A [Cirrus Instant Access Technical Assessment Form](ta/Cirrus-TA-Instant-form.docx)
