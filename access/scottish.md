@@ -25,8 +25,8 @@ Resources Available
 
 Although there is no limit on the amount of resource that can be requested through the
 Scottish academic access mechanism, we would expect applications for test access to be
-a maximum of around 15,000 CPUh and production access would be for a maximum of 
-1,000,000 CPUh. 
+a maximum of around 15,000 Core-h and production access would be for a maximum of 
+1,000,000 Core-h. 
 
 Test access will be for 6 months and production access for 1 year.
 
