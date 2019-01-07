@@ -40,6 +40,14 @@ Additional maintenance sessions can be scheduled for major hardware or software 
 
 Electrical work is taking place at the ACF datacentre. All Cirrus nodes (login, data services, compute) will be unavailable during this time.
 
+Our systems team have encountered issues with the InfiniBand network not coming back online following the maintenance. This affects all clusters Cirrus, GSEG and EGDP.
+
+We are investigating the issue and are in communication with HPE in order to resolve the issue as soon as possible.
+
+Meantime the system is unavailable to all users and most likely will not be back online before the 5pm deadline.  We apologise for the inconvenience this may cause.
+
+
+
 #### Changes made during Recent Maintenance Sessions
 
 ##### 0900-1700 GMT, 21 November 2018 
