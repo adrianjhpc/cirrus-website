@@ -8,7 +8,15 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-- No current issues
+- Our systems team have encountered issues with the InfiniBand network not coming back online following the maintenance on Monday 7th January. This affects all clusters Cirrus, GSEG and EGDP.
+
+- We are investigating the issue and are in communication with HPE in order to resolve the issue as soon as possible.
+Work overnight conducted by HPE to correct the InfiniBand issue have been unsuccessful. As a result HPE have now escalated this issue to their backline engineering team.
+
+- There is currently no estimated resolution time and we are continuing to work with HPE to correct the issue, and will provide updates here as they become available to us.
+
+- Meantime the system is unavailable to all users.  We apologise for the inconvenience this may cause.
+
 
 ### Recent Issues
 
@@ -39,13 +47,6 @@ Additional maintenance sessions can be scheduled for major hardware or software 
 #### 0900-1700 GMT, 7 January 2019
 
 Electrical work is taking place at the ACF datacentre. All Cirrus nodes (login, data services, compute) will be unavailable during this time.
-
-Our systems team have encountered issues with the InfiniBand network not coming back online following the maintenance. This affects all clusters Cirrus, GSEG and EGDP.
-
-We are investigating the issue and are in communication with HPE in order to resolve the issue as soon as possible.
-
-Meantime the system is unavailable to all users and most likely will not be back online before the 5pm deadline.  We apologise for the inconvenience this may cause.
-
 
 
 #### Changes made during Recent Maintenance Sessions
