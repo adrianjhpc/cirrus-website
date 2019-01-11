@@ -8,13 +8,11 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### 9 January 2019: Cirrus Unavailable ####
+#### 11 January 2019: Cirrus Unavailable ####
 
-- Our systems team have encountered issues with the InfiniBand interconnect and Lustre file system following the  maintenance on Monday 7th January.
-- We are investigating the issue in collaboration with the hardware vendor in order to resolve the issue as soon as possible.
-- There is currently no estimated resolution time and will provide updates here as they become available to us.
-- the system is unavailable to all users. We apologise for the inconvenience this may cause.
-- Next update: Friday 11 January 2019 (unless new information becomes available sooner).
+We have identified a failed hardware component in the Infiniband network. A temporary workaround is being attempted Fri 11 Jan 2019. If successful, we expect the system to be returned to service on Fri 11 Jan 2019. If unsuccessful, we expect the system to be returned to service on Tue 15 January 2019.
+
+Next update: PM Friday 11 January 2019
 
 ### Recent Issues
 
