@@ -8,11 +8,14 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### 11 January 2019: Cirrus Unavailable ####
+#### 11 January 2019, 16:30: Cirrus service restored. ####
 
-We have identified a failed hardware component in the Infiniband network. A temporary workaround is being attempted Fri 11 Jan 2019. If successful, we expect the system to be returned to service on Fri 11 Jan 2019. If unsuccessful, we expect the system to be returned to service on Tue 15 January 2019.
+We have successfully restored Cirrus to service, at 16:30 Friday 11th January.
+36 nodes remain unavailable due to a faulty Infiniband switch which will be restored on receipt of the replacement hardware.  
+Cirrus-dsn0 is still offline.  
+The remainder of the service is operational.  
 
-Next update: PM Friday 11 January 2019
+Please let helpdesk know if you experience any issues.
 
 ### Recent Issues
 
