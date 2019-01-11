@@ -11,9 +11,11 @@ summary: Up to date status of the Cirrus service
 #### 11 January 2019, 16:30: Cirrus service restored. ####
 
 We have successfully restored Cirrus to service, at 16:30 Friday 11th January.
-36 nodes remain unavailable due to a faulty Infiniband switch which will be restored on receipt of the replacement hardware.  
-Cirrus-dsn0 is still offline.  
-The remainder of the service is operational.  
+* The GPU nodes are available
+* There are 36 compute nodes unavailable due to an ongoing hardware issue
+* The Data Services Node (DSN) is currently unavailable
+
+We expect the unavailable nodes to be available once the hardware issue is resolved and hope that this should be in the first half of next week.
 
 Please let helpdesk know if you experience any issues.
 
