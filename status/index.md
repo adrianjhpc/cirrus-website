@@ -8,6 +8,14 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
+#### 16 January 2019: Cirrus service fully restored. ####
+
+The faulty hardware has been replaced and the remaining compute node have been returned to service.
+
+Please let helpdesk know if you experience any issues.
+
+### Recent Issues
+
 #### 11 January 2019, 16:30: Cirrus service restored. ####
 
 We have successfully restored Cirrus to service, at 16:30 Friday 11th January.
@@ -16,12 +24,6 @@ We have successfully restored Cirrus to service, at 16:30 Friday 11th January.
 * The Data Services Node (DSN) is currently unavailable
 
 We expect the unavailable nodes to be available once the hardware issue is resolved and hope that this should be in the first half of next week.
-
-Please let helpdesk know if you experience any issues.
-
-### Recent Issues
-
-- No recent issues
 
 ## Service Calendar and Maintenance
 
