@@ -8,11 +8,13 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### 16 January 2019: Cirrus service fully restored. ####
+#### 21 January 2019: Cirrus service status. ####
 
-The faulty hardware has been replaced and the remaining compute node have been returned to service.
+There are 36 compute nodes unavailable due to an ongoing issues. The faulty hardware has been replaced but there are still issues with the interconnect on the affected Cirrus nodes which are being investigated by the Cirrus systems team and HPE engineers.
 
-Please let helpdesk know if you experience any issues.
+The Data Services Node (DSN) **is** available.
+
+Apologies for any ongoing inconvenience. Please let [the helpdesk](../support/) know if you have any questions or experience any other issues.
 
 ### Recent Issues
 
