@@ -8,13 +8,9 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### 24 January 2019: Cirrus service status. ####
+#### 24 January 2019: Cirrus interconnect issues ####
 
-All Cirrus compute nodes have been restored.
-
-However, we are continuing to see issues with the Infiniband network following the replacement of the Infiniband switch, with reports of connection issues.  
-
-Our team are continuing to investigate.  The queues have been disabled to prevent jobs starting and failing.
+We are currently seeing issues with the Infiniband interconnect that can cause user jobs to fail. The queues are disabled while we work on this issue to prevent jobs from failing and wasting resources. The login nodes and Data Services Node (DSN) remain available so that users can continue to access their data.
 
 Apologies for any ongoing inconvenience. Please let [the helpdesk](../support/) know if you have any questions or experience any other issues.
 
