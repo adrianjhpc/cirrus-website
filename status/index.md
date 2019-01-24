@@ -12,7 +12,7 @@ summary: Up to date status of the Cirrus service
 
 All Cirrus compute nodes have been restored.
 
-However, we are continuing to see issues with the Infiniband network following the replacement of the Infiniband switch, with reports of connection issues.  This is affecting Cirrus and also GSEG and EGDP.
+However, we are continuing to see issues with the Infiniband network following the replacement of the Infiniband switch, with reports of connection issues.  
 
 Our team are continuing to investigate.  The queues have been disabled to prevent jobs starting and failing.
 
