@@ -8,6 +8,18 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
+#### 24 January 2019: Cirrus service status. ####
+
+All Cirrus compute nodes have been restored.
+
+However, we are continuing to see issues with the Infiniband network following the replacement of the Infiniband switch, with reports of connection issues.  This is affecting Cirrus and also GSEG and EGDP.
+
+Our team are continuing to investigate.
+
+Apologies for any ongoing inconvenience. Please let [the helpdesk](../support/) know if you have any questions or experience any other issues.
+
+### Recent Issues
+
 #### 21 January 2019: Cirrus service status. ####
 
 There are 36 compute nodes unavailable due to an ongoing issues so Cirrus is currently operating at reduced capacity. The faulty hardware has been replaced but there are still issues with the interconnect on the affected Cirrus nodes which are being investigated by the Cirrus systems team and HPE engineers.
@@ -15,8 +27,6 @@ There are 36 compute nodes unavailable due to an ongoing issues so Cirrus is cur
 The Data Services Node (DSN) **is** available.
 
 Apologies for any ongoing inconvenience. Please let [the helpdesk](../support/) know if you have any questions or experience any other issues.
-
-### Recent Issues
 
 #### 11 January 2019, 16:30: Cirrus service restored. ####
 
