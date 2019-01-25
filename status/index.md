@@ -10,7 +10,7 @@ summary: Up to date status of the Cirrus service
 
 #### 25 January 2019: Cirrus interconnect issues ####
 
-The system is now available to users following the recent Infiniband interconnect issues and users should be able to submit jobs as normal. However, the systems team and vendor engineers are continuing investigations into the underlying casue of the issues with the interconnect. As the underlying cause of the issues has not been determined, users should be aware that the system is running "at risk".  
+The system is now available to users following the recent Infiniband interconnect issues and users should be able to submit jobs as normal. However, the systems team and vendor engineers are continuing investigations into the cause of the issues with the interconnect. As the underlying cause of the issues has not been determined, users should be aware that the system is running "at risk".  
 
 Please let [the helpdesk](../support/) know if you experience any issues with your jobs. As usual, we will refund the resources for any jobs that are affected by issues with the Cirrus hardware.
 
