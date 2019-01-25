@@ -8,30 +8,19 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### 24 January 2019: Cirrus interconnect issues ####
+#### 25 January 2019: Cirrus interconnect issues ####
 
-We are currently seeing issues with the Infiniband interconnect that can cause user jobs to fail. The queues are disabled while we work on this issue to prevent jobs from failing and wasting resources. The login nodes and Data Services Node (DSN) remain available so that users can continue to access their data.
+The system is now available to users following the recent Infiniband interconnect issues and users should be able to submit jobs as normal. However, the systems team and vendor engineers are continuing investigations into the underlying casue of the issues with the interconnect. As the underlying cause of the issues has not been determined, users should be aware that the system is running "at risk".  
 
-Apologies for any ongoing inconvenience. Please let [the helpdesk](../support/) know if you have any questions or experience any other issues.
+Please let [the helpdesk](../support/) know if you experience any issues with your jobs. As usual, we will refund the resources for any jobs that are affected by issues with the Cirrus hardware.
 
 ### Recent Issues
 
-#### 21 January 2019: Cirrus service status. ####
+#### 24 January 2019: Cirrus interconnect issues
 
-There are 36 compute nodes unavailable due to an ongoing issues so Cirrus is currently operating at reduced capacity. The faulty hardware has been replaced but there are still issues with the interconnect on the affected Cirrus nodes which are being investigated by the Cirrus systems team and HPE engineers.
+We are currently seeing issues with the Infiniband interconnect that can cause user jobs to fail. The queues are disabled while we work on this issue to prevent jobs from failing and wasting resources. The login nodes and Data Services Node (DSN) remain available so that users can continue to access their data.
 
-The Data Services Node (DSN) **is** available.
-
-Apologies for any ongoing inconvenience. Please let [the helpdesk](../support/) know if you have any questions or experience any other issues.
-
-#### 11 January 2019, 16:30: Cirrus service restored. ####
-
-We have successfully restored Cirrus to service, at 16:30 Friday 11th January.
-* The GPU nodes are available
-* There are 36 compute nodes unavailable due to an ongoing hardware issue
-* The Data Services Node (DSN) is currently unavailable
-
-We expect the unavailable nodes to be available once the hardware issue is resolved and hope that this should be in the first half of next week.
+Apologies for any ongoing inconvenience. Please let the [the helpdesk](../support/) know if you have any questions or experience any other issues.
 
 ## Service Calendar and Maintenance
 
