@@ -10,8 +10,8 @@ summary: Up to date status of the Cirrus service
 
 #### 4 March 2019: Cirrus issues ####
 
-Our team are currently investigating an issue with Cirrus.  Jobs requesting non-exclusive access to nodes seem to be going into a held state.
-We apologise for any inconvenience and will update users once we know more.
+Our team are currently investigating an issue with Cirrus.  Jobs requesting non-exclusive access to nodes seemed to be going into a held state.  We have taken the affected nodes off-line and are rebooting them and will then bring them back into service.  Other nodes are unaffected so queued jobs are continuing to run successfully on these nodes.
+We apologise for any inconvenience.  We will provide a further update once all are fully restored.
 
 ### Recent Issues
 
