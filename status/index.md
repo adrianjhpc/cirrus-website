@@ -8,13 +8,18 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
+#### 4 March 2019: Cirrus issues ####
+
+Our team are currently investigating an issue with Cirrus.  Jobs requesting non-exclusive access to nodes seem to be going into a held state.
+We apologise for any inconvenience and will update users once we know more.
+
+### Recent Issues
+
 #### 25 January 2019: Cirrus interconnect issues ####
 
 The system is now available to users following the recent Infiniband interconnect issues and users should be able to submit jobs as normal. However, the systems team and vendor engineers are continuing investigations into the cause of the issues with the interconnect. As the underlying cause of the issues has not been determined, users should be aware that the system is running "at risk".  
 
 Please let [the helpdesk](../support/) know if you experience any issues with your jobs. As usual, we will refund the resources for any jobs that are affected by issues with the Cirrus hardware.
-
-### Recent Issues
 
 #### 24 January 2019: Cirrus interconnect issues
 
