@@ -8,24 +8,16 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### 4 March 2019: Cirrus issues ####
-
-Our team are currently investigating an issue with Cirrus.  Jobs requesting non-exclusive access to nodes seemed to be going into a held state.  We have taken the affected nodes off-line and are rebooting them and will then bring them back into service.  Other nodes are unaffected so queued jobs are continuing to run successfully on these nodes.
-We apologise for any inconvenience.  We will provide a further update once all are fully restored.
+No current issues.
 
 ### Recent Issues
 
-#### 25 January 2019: Cirrus interconnect issues ####
+#### 4 March 2019: Cirrus issues ####
 
-The system is now available to users following the recent Infiniband interconnect issues and users should be able to submit jobs as normal. However, the systems team and vendor engineers are continuing investigations into the cause of the issues with the interconnect. As the underlying cause of the issues has not been determined, users should be aware that the system is running "at risk".  
+An issue led to jobs requesting non-exclusive access to nodes going into a held state.  The affected nodes were taken off-line and rebooted and then brought back into service.  
+We apologise for any inconvenience caused.
 
-Please let [the helpdesk](../support/) know if you experience any issues with your jobs. As usual, we will refund the resources for any jobs that are affected by issues with the Cirrus hardware.
-
-#### 24 January 2019: Cirrus interconnect issues
-
-We are currently seeing issues with the Infiniband interconnect that can cause user jobs to fail. The queues are disabled while we work on this issue to prevent jobs from failing and wasting resources. The login nodes and Data Services Node (DSN) remain available so that users can continue to access their data.
-
-Apologies for any ongoing inconvenience. Please let the [the helpdesk](../support/) know if you have any questions or experience any other issues.
+Please let the [the helpdesk](../support/) know if you have any questions or experience any other issues.
 
 ## Service Calendar and Maintenance
 
