@@ -8,16 +8,15 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-No current issues.
+#### 1 April 2019: Cirrus issues ####
+
+There is an issue on Cirrus that is affecting SSH connections this morning.
+We are investigating and will update you when we have more information. 
+We apologise for any inconvenience caused.
 
 ### Recent Issues
 
-#### 4 March 2019: Cirrus issues ####
-
-An issue led to jobs requesting non-exclusive access to nodes going into a held state.  The affected nodes were taken off-line and rebooted and then brought back into service.  
-We apologise for any inconvenience caused.
-
-Please let the [the helpdesk](../support/) know if you have any questions or experience any other issues.
+No recent issues.
 
 ## Service Calendar and Maintenance
 
