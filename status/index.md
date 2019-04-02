@@ -8,11 +8,9 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### 1 April 2019: 1430 Cirrus issues ####
+#### 2 April 2019: 0900 Cirrus issues ####
 
-The issues affecting ssh connections on Cirrus have now been resolved and the system has been returned to full service.
-Please contact the helpdesk (helpdesk@cirrus.ac.uk) if you continue to experience any issues. 
-
+Cirrus is presently running at reduced capacity.  We are investigating and will provide more information shortly.
 
 ### Recent Issues
 #### 1 April 2019: Cirrus issues ####
