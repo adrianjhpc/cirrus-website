@@ -8,7 +8,7 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### 2 April 2019: 0900 Cirrus issues ####
+#### 2 April 2019: 1330 Cirrus issues ####
 
 Due to a site-wide power outage early this morning, Cirrus is presently running at reduced capacity.  We are working to reboot the affected nodes and restore full service as soon as possible.
 
