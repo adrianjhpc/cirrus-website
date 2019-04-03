@@ -8,11 +8,12 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### 3 April 2019: 09:00 Cirrus issues ####
+#### 3 April 2019: 10:30 Cirrus issues ####
 
-The system team are back on site to continuing to work with HPE to diagnose the issues and restore full service as soon as possible. A user mailing will be sent at 10:00 detailing this. 
+Our systems team continue to work to resolve the issues with the Cirrus Service. 
+We are hopeful that the service will be restored today and will be in touch with further information as we get it. 
 
-We apologise for the inconvenience caused by this unplanned outage. 
+Apologies again for the inconvenience caused by this unplanned outage. 
 
 ### Recent Issues
 #### 1 April 2019: Cirrus issues ####
