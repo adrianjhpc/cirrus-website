@@ -8,14 +8,16 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### 3 April 2019: 10:30 Cirrus issues ####
+No current issues.
 
-Our systems team continue to work to resolve the issues with the Cirrus Service. 
-We are hopeful that the service will be restored today and will be in touch with further information as we get it. 
+### Recent Issues
+
+#### 3 April 2019: 12:30 Cirrus issues ####
+
+Our systems team have now restored Cirrus and it is now fully operational once more. Please alert Helpdesk if you see any further problems.
 
 Apologies again for the inconvenience caused by this unplanned outage. 
 
-### Recent Issues
 #### 1 April 2019: Cirrus issues ####
 
 There is an issue on Cirrus that is affecting SSH connections this morning.
