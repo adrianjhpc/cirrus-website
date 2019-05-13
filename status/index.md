@@ -12,17 +12,7 @@ No current issues.
 
 ### Recent Issues
 
-#### 3 April 2019: 12:30 Cirrus issues ####
-
-Our systems team have now restored Cirrus and it is now fully operational once more. Please alert Helpdesk if you see any further problems.
-
-Apologies again for the inconvenience caused by this unplanned outage. 
-
-#### 1 April 2019: Cirrus issues ####
-
-There is an issue on Cirrus that is affecting SSH connections this morning.
-We are investigating and will update you when we have more information. 
-We apologise for any inconvenience caused.
+No recent issues.
 
 ## Service Calendar and Maintenance
 
