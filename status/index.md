@@ -8,7 +8,11 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-No current issues.
+2nd July 2019.  10:00.
+We are currently experiencing some issues on Cirrus. 
+We plan to perform a full system reboot starting at 11:30am today in order to resolve these. 
+We hope to restore full service by later today. 
+We apologise for the inconvenience caused.
 
 ### Recent Issues
 
