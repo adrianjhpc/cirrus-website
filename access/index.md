@@ -47,7 +47,7 @@ research falls within EPSRC remit or not.
 |-
 | [Grant Access](grant.html) | Always Open | Always Open | | [Grant/RAP Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
 |-
-| [RAP Open Access](https://epsrc.ukri.org/funding/calls/rapopenaccesstier2spring20191/) | 25 April 2019 | 11 April 2019 | EPSRC Remit Only | [See call page](https://epsrc.ukri.org/funding/calls/rapopenaccesstier2spring20191/) |
+| RAP Open Access | No call open | No call open | Next call due Autumn 2019. EPSRC Remit Only. |  |
 |-
 
 ### EPSRC Access
