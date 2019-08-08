@@ -8,17 +8,16 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-2nd July 2019.  16:15.
-Cirrus has been restored to full service. 
-Please let the helpdesk know if you experience any further issues or have concerns over previously submitted jobs including requests for refunds. 
-We apologise for the inconvenience caused.
+No current issues
 
 ### Recent Issues
 
-2nd July 2019.  10:00.
-We are currently experiencing some issues on Cirrus. 
-We plan to perform a full system reboot starting at 11:30am today in order to resolve these. 
-We hope to restore full service by later today. 
+No recent issues 
+
+### Planned Maintenance Wednesday 21st August
+
+Cirrus will be unavailabe on Wedensday 21st August  9:00am - 17:00  whilst our systems team work on updates.
+This will affect the whole of the Cirrus service including login and compute nodes.
 
 ## Service Calendar and Maintenance
 
