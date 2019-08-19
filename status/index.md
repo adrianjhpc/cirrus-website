@@ -14,10 +14,10 @@ No current issues
 
 No recent issues 
 
-### Planned Maintenance Wednesday 21st August
+### Postponed: Planned Maintenance Wednesday 21st August
 
-Cirrus will be unavailabe on Wedensday 21st August  9:00am - 17:00  whilst our systems team work on updates.
-This will affect the whole of the Cirrus service including login and compute nodes.
+The planned Cirrus Maintenance on Wedensday 21st August  9:00am - 17:00  will now be postponed.
+Apologies for the inconvenience caused and further notification will be sent once we have confirmed the new date. 
 
 ## Service Calendar and Maintenance
 
