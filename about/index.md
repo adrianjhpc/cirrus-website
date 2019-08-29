@@ -58,8 +58,8 @@ role in running and supporting the service. The key staff are:
 
 * Prof. Mark Parsons (Service Director)
 * Dr Alan Simpson (Deputy Service Director)
-* Dr Andy Turner (Service Owner)
-* Mr George Graham (Commercial Manager)
+* Ms Josephine Beech-Brandt (Service Owner)
+* Mr Thomas Blyth (Commercial Manager)
 * Mr Donald Scobbie (Systems Manager)
 * Ms Anne Whiting (User Support Manager)
 * Mr Kris Findlay (System Administrator)
