@@ -9,8 +9,7 @@ summary: Highlighting use cases of Cirrus
 Examples of where Cirrus has helped with Inustrial Collaborators :
 
 * [Online Cirrus User Documentation](http://cirrus.readthedocs.io)
-* [Cirrus User Documentation (PDF)](http://readthedocs.org/projects/cirrus/downloads/pdf/master/)
-* [Cirrus User Documentation (Epub)](http://readthedocs.org/projects/cirrus/downloads/epub/master/)
+* [Engys](engys.md)
 
 Here are some academic case studies:
 
