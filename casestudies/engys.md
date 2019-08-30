@@ -19,7 +19,7 @@ operation on the Cirrus HPC cloud, providing significant advantages of scale.
 
 ## Engys: Body 
 
-Examples of where Cirrus has helped with Inustrial Collaborators :
+![Engys Applications](ENGYS_app_panel.jpg)
 
 * [Online Cirrus User Documentation](http://cirrus.readthedocs.io)
 * [Engys](engys.md)
