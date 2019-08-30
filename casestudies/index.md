@@ -8,8 +8,9 @@ summary: Highlighting use cases of Cirrus
 
 Examples of where Cirrus has helped with Inustrial Collaborators :
 
-* [Online Cirrus User Documentation](http://cirrus.readthedocs.io)
 * [Engys](engys.html)
+* [GexCon](gexcon.html)
+* [IrishMarine](irishmarine.html)
 
 Here are some academic case studies:
 
