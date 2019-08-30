@@ -6,7 +6,7 @@ summary: Highlighting use cases of Cirrus
 
 ## Cirrus Industrial Case Studies
 
-Here are three industrial case studies:
+Examples of where Cirrus has helped with Inustrial Collaborators :
 
 * [Online Cirrus User Documentation](http://cirrus.readthedocs.io)
 * [Cirrus User Documentation (PDF)](http://readthedocs.org/projects/cirrus/downloads/pdf/master/)
