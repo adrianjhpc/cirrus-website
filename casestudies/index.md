@@ -6,13 +6,12 @@ summary: Highlighting use cases of Cirrus
 
 ## Cirrus Industrial Case Studies
 
-Examples of where Cirrus has helped with Inustrial Collaborators :
+Examples of where Cirrus has helped with Inustrial Customers :
 
 * [Engys](engys.html)
 * [GexCon](gexcon.html)
 * [IrishMarine](irishmarine.html)
 
-Here are some academic case studies:
 
 
 ## Contact Us
