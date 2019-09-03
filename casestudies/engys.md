@@ -15,7 +15,7 @@ model offering cost effective, pay-per-use access to advanced CFD modelling base
 Cirrus HPC cloud. A purpose-built, easy-to-use interface provide users with seamless migration from local desktop to 
 operation on the Cirrus HPC cloud, providing significant advantages of scale.  
 
-![Engys Applications](ENGYS_app_panel.jpg)
+![Engys Applications](ENGYS_app_panel_small.jpg)
 
 HELYX by ENGYS combines the proven capabilities, support and reliability of commercial software with the inherent advantages of cost-effective, scalable open-source solutions. 
 
