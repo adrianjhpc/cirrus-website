@@ -4,6 +4,7 @@ title: Engys
 summary: A new business model for delivering a simulation and modelling service on HPC cloud 
 ---
 ![Engys Logo](engys_logo.ai)
+
 A unique collaboration between academia and industry has created a novel simulation-as-a-service model 
 offering cost effective, pay-per-use access to advanced CFD modelling on HPC cloud.    
  
