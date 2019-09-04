@@ -25,8 +25,8 @@ Cirrus has been designed to support a wide range of industry applications
 and EPCC can provide both access to HPC resources and also consultancy to
 effectively exploit HPC resources.
 
-For access to Cirrus and EPCC expertise please contact George Graham
-(<g.graham@epcc.ed.ac.uk>, +44 131 651 3460) and see the 
+For access to Cirrus and EPCC expertise please contact Thomas Blyth
+(<t.blyth@epcc.ed.ac.uk>, +44 131 651 3460) and see the 
 [EPCC Accelerator](https://www.epcc.ed.ac.uk/work-us/industry-engagement-programmes/accelerator)
 page.
 
@@ -47,7 +47,7 @@ research falls within EPSRC remit or not.
 |-
 | [Grant Access](grant.html) | Always Open | Always Open | | [Grant/RAP Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx) |
 |-
-| RAP Open Access | No call open | No call open | Next call due Autumn 2019. EPSRC Remit Only. |  |
+| [RAP Open Access](open.html) | 31st October 2019 | 17th October 2019 at 1600 | EPSRC Remit Only. | [Grant/RAP Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx)  |
 |-
 
 ### EPSRC Access
