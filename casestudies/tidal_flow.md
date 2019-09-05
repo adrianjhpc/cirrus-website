@@ -3,7 +3,7 @@ layout: section
 title: Tidal flow simulation
 summary: Simulation of tidal flow in energetic tidal sites to investigate tidal energy potential and optimise tidal energy extraction, evaluate engineering stresses on tidal turbines, and impacts on seabeds of placement of tidal turbines.
 ---
-![Tidal_Flow](tidal_flow.png)
+
 
 Using CoastED   (a computational fluid dynamics software package tailored and optimised for modelling coastal currents 
 at the local scale, ie. 10-100 km, whilst also resolving engineering scales, ie. smaller than 1 m), simulations modelling 
@@ -15,6 +15,7 @@ unparalleled level of detail and information on the fluid dynamics being studied
 understanding of the potential energy in the modelled tidal sites, the best positions for installing turbines for optimal 
 energy extraction, simulation of engineering stresses on turbine structures, and impacts of placement on seabeds.
 
+![Tidal_Flow | small](tidal_flow.png)
 ## Acknowledgement
 
 This work used the Cirrus UK National Tier-2 HPC Service at EPCC funded by the University of Edinburgh and EPSRC (EP/P020267/1). (http://www.cirrus.ac.uk)  
