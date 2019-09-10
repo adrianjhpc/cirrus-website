@@ -38,6 +38,8 @@ which can reduce simulation times from weeks to a matter of hours. 
 
 The new service will be instrumental in driving impact from EPSRC’s investment in the Cirrus platform.  
 
+![Gexcon](gexcon1.jpg)
+
 ## Acknowledgement
 
 This work used the Cirrus UK National Tier-2 HPC Service at EPCC funded by the University of Edinburgh and EPSRC (EP/P020267/1). (http://www.cirrus.ac.uk)  
