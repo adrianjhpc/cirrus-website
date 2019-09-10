@@ -12,14 +12,15 @@ has knowledge about running containers in an HPC environment, so this is a good 
 to use the expertise at EPCC to help expand the accessibility of NEMO to a wider range of researchers.
 
 
-•	More straightforward installation of NEMO
-•	Easier to test NEMO locally before deploying to a cluster
-•	Increase number of users of NEMO
-•	Decrease barrier of entry to running and developing NEMO
-•	Widen knowledge about emerging technologies to an increasing number of scientific domains
+* More straightforward installation of NEMO
+* Easier to test NEMO locally before deploying to a cluster
+* Increase number of users of NEMO
+* Decrease barrier of entry to running and developing NEMO
+* Widen knowledge about emerging technologies to an increasing number of scientific domains
 
-Dr James Harle, National Oceanography Centre
-Dr Chris Wood, EPCC
+## Contacts
+* Dr James Harle, National Oceanography Centre
+* Dr Chris Wood, EPCC
 
 
 ## Acknowledgement
