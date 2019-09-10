@@ -27,6 +27,8 @@ Users can seamlessly ‘cloud-burst’ from a local workstation to the HPC servi
 
 The end result for HELYX users is easy cost-effective access to HELYX on HPC cloud, resulting in quicker engineering analysis, faster time to market and improved product design.  
 
+![Engys Helyx](Engys-Helyx.jpg)
+
 ## Acknowledgement
 
 This work used the Cirrus UK National Tier-2 HPC Service at EPCC funded by the University of Edinburgh and EPSRC (EP/P020267/1). (http://www.cirrus.ac.uk)  
