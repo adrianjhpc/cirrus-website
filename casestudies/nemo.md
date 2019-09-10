@@ -18,7 +18,7 @@ to use the expertise at EPCC to help expand the accessibility of NEMO to a wider
 * Decrease barrier of entry to running and developing NEMO
 * Widen knowledge about emerging technologies to an increasing number of scientific domains
 
-## Contacts
+### Contacts
 * Dr James Harle, National Oceanography Centre
 * Dr Chris Wood, EPCC
 
