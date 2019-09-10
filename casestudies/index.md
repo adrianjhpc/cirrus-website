@@ -15,6 +15,7 @@ Examples of where Cirrus has helped with Industrial Customers :
 Examples of where Cirrus has helped with Academic Users :
 
 * [Tidal Flow](tidal_flow.html)
+* [NEMO](nemo.html)
 
 
 
