@@ -2,7 +2,7 @@
 layout: section
 title: NEMO into container technology
 summary: EPCC is working with NOC to help widen the number of researchers who are able to develop and run NEMO
-
+---
 
 NEMO (Nucleus for European Modelling of the Ocean) is a large & complex numerical model used by physical oceanographers 
 at a relatively small number of large research centres across Europe. Given the difficulties in compiling it on different 
