@@ -48,6 +48,8 @@ investment to create an HPC facility capable of supporting the needs of both aca
 the support and service and account management functions ensures that EPCC can respond effectively to the Marine Institute’s 
 specific requirements.  
 
+![IrishMarine](im.jpg)
+
 ## Acknowledgement
 
 This work used the Cirrus UK National Tier-2 HPC Service at EPCC funded by the University of Edinburgh and EPSRC 
