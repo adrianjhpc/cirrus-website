@@ -25,9 +25,9 @@ for more information:
 ## Service Catalogue
 
 Cirrus provides a range of services. The different services are listed in the 
-Cirrus Service Catalogue:
+Cirrus Service Component Catalogue:
 
-* [Cirrus Service Catalogue (pdf)](Cirrus_Service_Catalogue.pdf)
+* [Cirrus Service Component Catalogue (pdf)](Cirrus_Service_Component_Catalogue.pdf)
 
 ## Policies
 
