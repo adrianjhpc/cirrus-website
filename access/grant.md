@@ -37,5 +37,5 @@ submission. The completed TA form can then be included along with your
 application as required.
 
 **Cost of access to Cirrus is still being finalised, if you wish to
-include Cirrus on a grant applicatoin then please contact the
+include Cirrus on a grant application then please contact the
 [Cirrus Helpdesk](/support/).**
