@@ -8,7 +8,8 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-No current issues
+Cirrus is currently experiencing issues with parts of the network. Our systems team is working to resolve these issues.
+Apologies for the inconvenience caused by these issues.
 
 ### Recent Issues
 
