@@ -8,12 +8,12 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-Cirrus is currently experiencing issues with parts of the network. Our systems team is working to resolve these issues.
-Apologies for the inconvenience caused by these issues.
+No current issues.
 
 ### Recent Issues
 
-No recent issues 
+Cirrus was experiencing issues with parts of the network leading to some jobs failing to run. Our systems team have now resolved these issues.
+Apologies for the inconvenience caused.
 
 ### Postponed: Planned Maintenance Wednesday 21st August
 
