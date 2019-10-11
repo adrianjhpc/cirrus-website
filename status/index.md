@@ -8,7 +8,13 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-No current issues.
+#### Friday 11th October
+We have noticed that there is a discrepency between the default mpt module versions on login and compute nodes.
+In order to ensure consistency we would recommend using
+
+  module load mpt/2.18 
+  
+to specify the version explicitly whilst we resolve this.
 
 ### Recent Issues
 
