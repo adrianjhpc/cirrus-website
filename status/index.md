@@ -9,13 +9,6 @@ summary: Up to date status of the Cirrus service
 ### Current Issues
 
 #### Friday 11th October
-Cirrus is currently experiencing issues and our team are investigating.
-
-We will provide updates as soon as we know more.
-
-We apologise for the inconvenience.
-
---
 
 We have noticed that there is a discrepency between the default mpt module versions on login and compute nodes.
 In order to ensure consistency we would recommend using
@@ -26,8 +19,11 @@ to specify the version explicitly whilst we resolve this.
 
 ### Recent Issues
 
-Cirrus was experiencing issues with parts of the network leading to some jobs failing to run. Our systems team have now resolved these issues.
-Apologies for the inconvenience caused.
+#### Friday 11th October
+
+Cirrus has now been restored to full service.
+
+We apologise for the inconvenience caused by the unplanned outage.
 
 ### Postponed: Planned Maintenance Wednesday 21st August
 
