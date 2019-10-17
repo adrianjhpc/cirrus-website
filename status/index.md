@@ -4,15 +4,6 @@ title: Cirrus Service Status
 summary: Up to date status of the Cirrus service
 ---
 
-
-## Urgent maintenance outage 11:30 - 18:00 17/10/19 ##
-
-We need to carry out urgent maintenance session on Cirrus on 17/10/19.  Whilst we prefer to be able to give a weeks notice in advance of maintenace, due to the critical nature of this work this hasn't been possible in this case.  Cirrus will be unavailable from 11:30 until 18:00.  Both the login nodes and the compute will be unavailable.  Queued jobs will be re-started once Cirrus is back in service.  Analysis of the queues indicates that most currently running jobs will have completed before the maintenance starts, but if not unfortunately any running jobs will need to be killed.  If your jobs have been killed please get in touch for a refund.
-
-If the work completes earlier than anticipated we will bring the service back and let you know.
-
-We apologise for the inconvenience caused.
-
 ## Known Issues
 
 ### Current Issues
@@ -28,7 +19,13 @@ to specify the version explicitly whilst we resolve this.
 
 ### Recent Issues
 
-No recent issues
+#### Urgent maintenance outage 11:30 - 18:00 17/10/19 ####
+
+The urgent maintenance session completed successfully, ahead of schedule, at 16:05.
+Queued jobs have begun running once more and Cirrus is available.
+Analysis of the queues indicates that most jobs had completed before the maintenance but if your jobs have been killed please get in touch for a refund.
+
+We apologise for the inconvenience caused.
 
 ## Service Calendar and Maintenance
 
