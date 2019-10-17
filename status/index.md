@@ -4,6 +4,15 @@ title: Cirrus Service Status
 summary: Up to date status of the Cirrus service
 ---
 
+
+#### Urgent maintenance outage 11:30 - 18:00 17/10/19 ####
+
+We need to carry out urgent maintenance session on Cirrus on 17/10/19.  Whilst we prefer to be able to give a weeks notice in advance of maintenace, due to the critical nature of this work this hasn't been possible in this case.  Cirrus will be unavailable from 11:30 until 18:00.  Both the login nodes and the compute will be unavailable.  Queued jobs will be re-started once Cirrus is back in service.  Analysis of the queues indicates that most currently running jobs will have completed before the maintenance starts, but if not unfortunately any running jobs will need to be killed.  If your jobs have been killed please get in touch for a refund.
+
+If the work completes earlier than anticipated we will bring the service back and let you know.
+
+We apologise for the inconvenience caused.
+
 ## Known Issues
 
 ### Current Issues
@@ -19,16 +28,7 @@ to specify the version explicitly whilst we resolve this.
 
 ### Recent Issues
 
-#### Friday 11th October
-
-Cirrus has now been restored to full service.
-
-We apologise for the inconvenience caused by the unplanned outage.
-
-### Postponed: Planned Maintenance Wednesday 21st August
-
-The planned Cirrus Maintenance on Wedensday 21st August  9:00am - 17:00  will now be postponed.
-Apologies for the inconvenience caused and further notification will be sent once we have confirmed the new date. 
+No recent issues
 
 ## Service Calendar and Maintenance
 
@@ -52,13 +52,7 @@ Additional maintenance sessions can be scheduled for major hardware or software 
 
 ### Upcoming Maintenance Sessions
 
-#### Urgent maintenance outage 11:30 - 18:00 17/10/19 ####
-
-We need to carry out urgent maintenance session on Cirrus on 17/10/19.  Whilst we prefer to be able to give a weeks notice in advance of maintenace, due to the critical nature of this work this hasn't been possible in this case.  Cirrus will be unavailable from 11:30 until 18:00.  Both the login nodes and the compute will be unavailable.  Queued jobs will be re-started once Cirrus is back in service.  Analysis of the queues indicates that most currently running jobs will have completed before the maintenance starts, but if not unfortunately any running jobs will need to be killed.  If your jobs have been killed please get in touch for a refund.
-
-If the work completes earlier than anticipated we will bring the service back and let you know.
-
-We apologise for the inconvenience caused.
+No maintenance planned
 
 
 
