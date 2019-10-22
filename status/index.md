@@ -8,14 +8,13 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### Friday 11th October
+#### Tuesday 22nd October
 
-We have noticed that there is a discrepency between the default mpt module versions on login and compute nodes.
-In order to ensure consistency we would recommend using
+The new version of MPT environment requires that you must specify "-ppn" *before* "-n".
 
-  module load mpt/2.18 
-  
-to specify the version explicitly whilst we resolve this.
+See the Warnings on https://cirrus.readthedocs.io/en/master/user-guide/batch.html
+
+You will need to update your scripts accordingly.
 
 ### Recent Issues
 
