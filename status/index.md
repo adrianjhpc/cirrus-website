@@ -12,7 +12,7 @@ summary: Up to date status of the Cirrus service
 
 The new version of MPT environment requires that you must specify "-ppn" *before* "-n".
 
-See the Warnings on https://cirrus.readthedocs.io/en/master/user-guide/batch.html
+See the information in the [Running Jobs on Cirrus section of the User Guide](https://cirrus.readthedocs.io/en/master/user-guide/batch.html).
 
 You will need to update your scripts accordingly.
 
