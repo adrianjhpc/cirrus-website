@@ -36,13 +36,7 @@ If you are using Intel MPI, then your job submission scripts should be unaffecte
 
 ### Recent Issues
 
-#### Urgent maintenance outage 11:30 - 18:00 17/10/19 ####
-
-The urgent maintenance session completed successfully, ahead of schedule, at 16:05.
-Queued jobs have begun running once more and Cirrus is available.
-Analysis of the queues indicates that most jobs had completed before the maintenance but if your jobs have been killed please get in touch for a refund.
-
-We apologise for the inconvenience caused.
+No recent issues
 
 ## Service Calendar and Maintenance
 
