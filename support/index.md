@@ -4,22 +4,22 @@ title: Support
 summary: Ask any questions you have about Cirrus
 ---
 
-## EPCC Helpdesk
+## Cirrus Service Desk
 
-The Helpdesk is the first point of contact for all questions relating
+The Service Desk is the first point of contact for all questions relating
 to the Cirrus facility.
 
 Support is available Monday to Friday from
 08:30 until 18:00, excluding UK public holidays.
 
-The Helpdesk can be reached by e-mail [support@cirrus.ac.uk](mailto:support@cirrus.ac.uk).
+The Service Desk can be reached by e-mail [support@cirrus.ac.uk](mailto:support@cirrus.ac.uk).
 
 Please try and provide as much background information as possible as this will
 speed up the processing time considerably. Existing Cirrus users will be asked
 for their user ID, project code, and, where applicable, the commands they are
 using and the error message they get.
 
-## How the helpdesk ticket system works
+## How the Service Desk ticket system works
 
 When a query is submitted by email it is placed in the SAFE query system.
 
@@ -31,7 +31,7 @@ to handle.
 
 The expert may contact you to discuss your problem or to get extra information.
 Finally, the expert will send you an answer, and the query will be closed. At
-this point the helpdesk will send you another message, telling you that this has
+this point the Service Desk will send you another message, telling you that this has
 happened.
 
 Closed queries are kept in the SAFE database, so that we can refer back to them
