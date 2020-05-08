@@ -25,7 +25,7 @@ Resources Available
 
 Although there is no limit on the amount of resource that can be requested through the
 Scottish academic access mechanism, we would expect applications for test access to be
-a maximum of around 15,000 Core-h and production access would be for a maximum of 
+a maximum of around 15,000 Core-h and production access to be for a maximum of 
 1,000,000 Core-h. 
 
 Test access will be for 6 months and production access for 1 year.
@@ -33,7 +33,7 @@ Test access will be for 6 months and production access for 1 year.
 Application Proceedure
 ----------------------
 
-A [Cirrus Scottish Academic Access Technical Assessment Form](ta/Cirrus-TA-ScotAccess-form_fix.docx)
+A [Cirrus Scottish Academic Access Technical Assessment Form](ta/Cirrus-TA-ScotAccess-form.docx)
 should be completed by you and sent to the [Cirrus Service Desk](/support/).
 
 The Cirrus CSE service will evaluate the technical feasibility of the project and this will
