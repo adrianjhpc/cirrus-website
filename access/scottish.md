@@ -34,7 +34,7 @@ Application Proceedure
 ----------------------
 
 A [Cirrus Scottish Academic Access Technical Assessment Form](ta/Cirrus-TA-ScotAccess-form.docx)
-should be completed by you and sent to the [Cirrus Helpdesk](/support/).
+should be completed by you and sent to the [Cirrus Service Desk](/support/).
 
 The Cirrus CSE service will evaluate the technical feasibility of the project and this will
 be passed to Cirrus management for approval.
