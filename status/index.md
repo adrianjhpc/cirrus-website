@@ -9,7 +9,7 @@ summary: Up to date status of the Cirrus service
 ### Current Issues
 
 Due to a security exploitation on the Cirrus login nodes, the decision has been taken to disable access to Cirrus while further investigations take place.
-The EPCC Systems team is working with HPE to investigate this issue and we will provide further updates tomorrow afternoon.
+The EPCC Systems team is working to investigate this issue and we will provide further updates tomorrow afternoon.
 We apologise for the inconvenience of this unplanned disruption to the Cirrus Service. 
 
 ### Recent Issues
