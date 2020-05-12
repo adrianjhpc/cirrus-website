@@ -8,9 +8,9 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-Due to a security exploitation on the Cirrus login nodes, the decision has been taken to disable access to Cirrus while further investigations take place.
-The EPCC Systems team is working to investigate this issue and we will provide further updates tomorrow afternoon.
-We apologise for the inconvenience of this unplanned disruption to the Cirrus Service. 
+Cirrus will be unavailable today, Tuesday 12th May 2020,  as we continue to investigate the security incident that was discovered yesterday.  Jobs that are currently running or queued will continue to run, but you will be unable to log in or to submit new jobs.  We will bring Cirrus back into service as soon as is safely possible to minimise disruption to the user community.  We hope to be in a position by tomorrow to provide a clearer idea of timescales for service resumption  and will provide a further update tomorrow.
+
+We appologise for the inconvenience caused.  If you have any particular questions or concerns please get in touch via the service desk.
 
 ### Recent Issues
 
