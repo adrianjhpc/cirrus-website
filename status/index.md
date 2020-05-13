@@ -8,6 +8,22 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
+#### Update Wednesday 13th May 2020
+
+We wanted to take the time to provide an update on the identified security exploit that has been identified on the Cirrus service.
+
+Over the last 24 hours, EPCC has been in contact with relevant parties within the University of Edinburgh, vendors and Government bodies, including the National Cyber Security Centre (NCSC) in order to construct the timeline of the exploit. This work is vital in order to help us understand where this exploit originated from, first sight of this exploit being on our services and any potential malicious activity on our services.
+
+At this time, EPCC has been continuing to work analysing our other services as this is not a OS or unique service specific exploit and other services can be affected.
+
+While we continue to conduct our investigations and work closely with NCSC to develop a wider understanding, Cirrus will be unavailable.
+
+Additionally, EPCC are at this moment working on planned work that is required to return to service and this discussion is moving forward so that we can be as clear as possible of what is required in order to reduce the risk as much as possible this exploit reoccurring. At this stage we cannot provide any updates on potential return to service dates but will share this information as soon as this is available through our discussions with NCSC and other vendors.
+
+We appreciate your understanding during this period of disruption. A further update will be provided later this afternoon. 
+
+#### Tuesday 12th May 2020
+
 Cirrus will be unavailable today, Tuesday 12th May 2020,  as we continue to investigate the security incident that was discovered yesterday.  Jobs that are currently running or queued will continue to run, but you will be unable to log in or to submit new jobs.  We will bring Cirrus back into service as soon as is safely possible to minimise disruption to the user community.  We hope to be in a position by tomorrow to provide a clearer idea of timescales for service resumption  and will provide a further update tomorrow.
 
 We appologise for the inconvenience caused.  If you have any particular questions or concerns please get in touch via the service desk.
