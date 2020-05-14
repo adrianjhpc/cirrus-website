@@ -13,10 +13,10 @@ summary: Up to date status of the Cirrus service
 We wanted to take the time to provide an additional update on the identified security exploit that has been identified on the Cirrus service. 
 It has become clear that this issue is something which is affecting a number of UK, European and International sites and systems, with Cirrus being one.
  
-EPCC are continuing to work analysing Cirrus and working with HPE to better understand the position and plan effective remedies.
-During this time, Cirrus will be unavailable and we apologise for the inconvenience caused by this outage.
+EPCC are continuing to work analysing Cirrus and working with HPE to better understand the position and plan effective remedies. Our current investigation suggests that user data has not been taken or compromised.
+While our investigations continue, Cirrus will be unavailable and we apologise for the inconvenience caused by this outage. 
 
-We appreciate your understanding during this period of disruption and a further update will be provided tomorrow afternoon.
+We appreciate your understanding during this period of disruption and a further update will be provided tomorrow.
 
 
 #### Update Wednesday 13th May 2020
