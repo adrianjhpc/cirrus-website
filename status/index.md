@@ -10,19 +10,13 @@ summary: Up to date status of the Cirrus service
 
 #### Update Thursday 14th May 2020 1900
 
-We wanted to take the time to provide an additional update on the identified security exploit that has been identified on the Cirrus service.
- 
-Over the last 72 hours, EPCC has continued to be in regular contact with the National Cyber Security Centre (NCSC) and Jisc in order to understand the impact of the originally identified issue.
- 
+We wanted to take the time to provide an additional update on the identified security exploit that has been identified on the Cirrus service. 
 It has become clear that this issue is something which is affecting a number of UK, European and International sites and systems, with Cirrus being one.
  
-At this time, there is very fluid information from the international security community around the incident, and a number of conference calls throughout today with NCSC and Jisc will result in a clearer steer from these centralised bodies being posted tonight on remedies and approaches.
- 
-As before, EPCC has been continuing to work through analysing our other services as this is not a OS or unique service specific exploit and other services can be affected.
- 
-While we continue to conduct our investigations and work closely with NCSC to develop a wider understanding and return to service plan, Cirrus will be unavailable, but we would like to assure you that we are doing everything we can to pull together a return to service plan to manage expectations.
- 
-We appreciate your understanding during this period of disruption.  A further update will be provided tomorrow afternoon.
+EPCC are continuing to work analysing Cirrus and working with HPE to better understand the position and plan effective remedies.
+During this time, Cirrus will be unavailable and we apologise for the inconvenience caused by this outage.
+
+We appreciate your understanding during this period of disruption and a further update will be provided tomorrow afternoon.
 
 
 #### Update Wednesday 13th May 2020
