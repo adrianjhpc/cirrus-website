@@ -8,6 +8,15 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
+
+#### Update Friday 15th May 2020 1600
+
+We want to provide an update on the security incident on the Cirrus service. 
+EPCC and HPE are continuing to work analysing Cirrus to better understand the position and plan effective remedies. Our current investigation suggests that user data has not been taken or compromised. 
+While our investigations continue, Cirrus will be unavailable and we apologise for the inconvenience caused by this outage. 
+We appreciate your understanding during this period of disruption and a further update will be provided on Monday 18th May. If you have any particular questions or concerns please get in touch via the service desk.
+
+
 #### Update Thursday 14th May 2020 1900
 
 We wanted to take the time to provide an additional update on the identified security exploit that has been identified on the Cirrus service. 
