@@ -8,6 +8,12 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
+#### Update Tuesday 19th May 2020 1100
+
+We want to provide an update on the security incident on the Cirrus service. 
+The Cirrus System Team continues to work on Cirrus and are in discussions with HPE regarding the return to service plan. 
+We appreciate your understanding during this period of disruption. If you have any particular questions or concerns please get in touch via the service desk.
+
 
 #### Update Friday 15th May 2020 1600
 
