@@ -8,6 +8,24 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
+#### Update Friday 22nd May 2020 1800
+
+We appreciate your patience with the unavailability of Cirrus at the current time.
+We continue to work with HPE to develop a plan to return a secure service to operation as soon as possible to enable your research to continue.
+ 
+We anticipate that Cirrus will be returned to service on Monday 22nd June.
+ 
+We do apologise for this unplanned downtime and acknowledge that it may be longer than you wish, however we believe taking the additional time now will return a more secure and better managed system going forward. It will also allow HPE time to complete the installation of Cirrus Phase II. We will adjust project duration to account for this downtime. 
+ 
+As you may be aware EPCC were successful in the Tier 2 HPC call to fund Cirrus Phase II. The Cirrus Phase II service will build on the success of the Cirrus service by adding additional tightly integrated GPU accelerators to the system.
+GPU accelerators help supercomputing applications run faster by accelerating their core numerical calculations.
+ 
+Cirrus Phase II will have 144 NVIDIA V100 GPUs in addition to the 8 Cirrus already has and it is supported by a fast storage layer for data intensive applications.
+ 
+Further updates will be provided by user mailings and please continue to check the Cirrus status page: http://www.cirrus.ac.uk/status/
+Please also contact the Cirrus Service Desk if you have any concerns regarding this and apologies for the inconvenience caused.
+ 
+
 #### Update Tuesday 19th May 2020 1100
 
 We want to provide an update on the security incident on the Cirrus service. 
