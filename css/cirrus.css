@@ -22,8 +22,23 @@ footer {
     margin-top: 25px;
 }
 
+
+
 ul {
    list-style-type: square;
    list-style-position: inside;
+}
+
+
+/*
+ * Local styles for Cirrus website accessibility
+ */
+
+footer p {
+  color: #707070;
+}
+
+a {
+  color: #3277b3;
 }
 
