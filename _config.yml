@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: Cirrus
 subtitle: "Cirrus@EPCC: Flexible HPC"
-url: "http://www.cirrus.ac.uk" # the base hostname & protocol for your site
+url: "https://www.cirrus.ac.uk" # the base hostname & protocol for your site
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
