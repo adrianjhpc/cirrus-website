@@ -8,6 +8,21 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
+#### Update Friday 19th June 2020 13:00
+
+Over the last four weeks our system team have been working alongside the HPE team and have made excellent progress with the rebuilding of Cirrus. We expect Cirrus to be available for internal and some external user testing on Monday 22nd June.
+
+The HPE team are now able to visit the Advanced Computing Facility (ACF) next Tuesday and Wednesday to complete the physical installation of the new GPU nodes.
+
+We anticipate that the full Cirrus Service will be available to all users from Thursday 25th June.
+
+Cirrus users will be required to use two credentials to access the service: an SSH key with a passphrase and their Cirrus password. It is imperative that users do not reuse a previously used password or SSH key with passphrase. All users will be asked to verify their SAFE accounts and we request that academic users use their UK home institutional email address for their SAFE account. If you are an academic user, who does not have a UK academic email address (.ac.uk), then we will require confirmation from your PI that you are an active collaborator within the project before we can add you to the access list. Industrial customers will be added to the access list.
+
+New documentation which details how to log on with the new access arrangements will be provided.
+
+Please also contact the Cirrus Service Desk if you have any concerns regarding this and apologies for the inconvenience caused.
+ 
+
 #### Update Friday 22nd May 2020 1800
 
 We appreciate your patience with the unavailability of Cirrus at the current time.
