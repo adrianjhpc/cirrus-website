@@ -17,7 +17,7 @@ Login to SAFE at https://www.archer.ac.uk/tier2/. Then:
 
 1. Go to the Menu "Login accounts" and select the Cirrus account you want a new password set.
 2. On the subsequent Login account details page click the "Request Password Reset" button
-3. Once you receive the email confirming the password reset has been completed, then
+3. Wait till you receive the email confirming the password reset has been completed, then
 4. On the Login account details page click the "View Login Account Password" to retrieve the password set for you.
 
 # New public key
