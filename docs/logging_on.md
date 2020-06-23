@@ -7,13 +7,13 @@ summary: How to get logged on to Cirrus following the upgrade June 2020
 
 Following the Cirrus return to service post upgrade, there have been some changes to login authentication.
 
-User require both a SSH key and password.  Both will have to be new before users can access the system. 
+Users require both a SSH key and password.  Both will have to be new before users can access the system. 
 
 # New password
 
 You request a new password be set using the Tier2 SAFE as follows:
 
-Login to SAFE at https://www.archer.ac.uk/tier2/. Then:
+Login to SAFE at [https://www.archer.ac.uk/tier2/](https://www.archer.ac.uk/tier2/). Then:
 
 1. Go to the Menu "Login accounts" and select the Cirrus account you want a new password set.
 2. On the subsequent Login account details page click the "Request Password Reset" button
@@ -24,7 +24,7 @@ Login to SAFE at https://www.archer.ac.uk/tier2/. Then:
 
 You upload the public part of the key pair to your Cirrus machine account using the Tier2 SAFE as follows:
 
-Login to SAFE at https://www.archer.ac.uk/tier2/. Then:
+Login to SAFE at [https://www.archer.ac.uk/tier2/](https://www.archer.ac.uk/tier2/). Then:
 
 1. Go to the Menu "Login accounts" and select the Cirrus account you want to add the SSH key to 
 2. On the subsequent Login account details page click the "Add Credential" button 
