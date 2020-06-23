@@ -34,6 +34,9 @@ Login to SAFE at https://www.archer.ac.uk/tier2/. Then:
 
 The public SSH key part will now be added to your login account on the Cirrus system.
 
+# Full details for logging on to Cirrus
+
+Full details for logging on to Cirrus are included in the [documentation pages](https://cirrus.readthedocs.io/en/master/user-guide/connecting.html )
 
 
 
