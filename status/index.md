@@ -22,7 +22,8 @@ There is important information contained within this message so please read it c
 * New Batch Scheduler: Slurm
 
 **Access to Cirrus:**
-rrus users are now required to use two credentials to access the service: an SSH key with a passphrase and their Cirrus password and their Cirrus password. It is imperative that users do not reuse a previously used password or SSH key with passphrase. All users will be asked to verify their SAFE accounts and we request that academic users use their UK home institutional email address for their SAFE account. If you are an academic user and do not have a UK academic email address (.ac.uk), then we will require confirmation from you PI that you are an active collaborator within the project before we can enable your access. Industrial users will be added to the access list.
+
+Cirrus users are now required to use two credentials to access the service: an SSH key with a passphrase and their Cirrus password and their Cirrus password. It is imperative that users do not reuse a previously used password or SSH key with passphrase. All users will be asked to verify their SAFE accounts and we request that academic users use their UK home institutional email address for their SAFE account. If you are an academic user and do not have a UK academic email address (.ac.uk), then we will require confirmation from you PI that you are an active collaborator within the project before we can enable your access. Industrial users will be added to the access list.
 
 New documentation describing this process is available at: [https://www.cirrus.ac.uk/docs/logging_on](https://www.cirrus.ac.uk/docs/logging_on)
 
