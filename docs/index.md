@@ -12,6 +12,10 @@ The Cirrus User Guide is currently hosted on Readthedocs:
 * [Cirrus User Documentation (PDF)](http://readthedocs.org/projects/cirrus/downloads/pdf/master/)
 * [Cirrus User Documentation (Epub)](http://readthedocs.org/projects/cirrus/downloads/epub/master/)
 
+## New Access to Cirrus arrangements
+
+* [Following the upgrade in June 2020 the access arrangements for Cirrus have changed.  Full information on the new requirements are here.](logging_on)
+
 ## SAFE Documentation for Cirrus
 
 SAFE is the web interface used for account and resource management on Cirrus.
