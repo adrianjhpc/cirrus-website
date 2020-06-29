@@ -23,7 +23,7 @@ There is important information contained within this message so please read it c
 
 **Access to Cirrus:**
 
-Cirrus users are now required to use two credentials to access the service: an SSH key with a passphrase and their Cirrus password and their Cirrus password. It is imperative that users do not reuse a previously used password or SSH key with passphrase. All users will be asked to verify their SAFE accounts and we request that academic users use their UK home institutional email address for their SAFE account. If you are an academic user and do not have a UK academic email address (.ac.uk), then we will require confirmation from you PI that you are an active collaborator within the project before we can enable your access. Industrial users will be added to the access list.
+Cirrus users are now required to use two credentials to access the service: an SSH key with a passphrase and their Cirrus password. It is imperative that users do not reuse a previously used password or SSH key with passphrase. All users will be asked to verify their SAFE accounts and we request that academic users use their UK home institutional email address for their SAFE account. If you are an academic user and do not have a UK academic email address (.ac.uk), then we will require confirmation from you PI that you are an active collaborator within the project before we can enable your access. Industrial users will be added to the access list.
 
 New documentation describing this process is available at: [https://www.cirrus.ac.uk/docs/logging_on](https://www.cirrus.ac.uk/docs/logging_on)
 
@@ -39,11 +39,11 @@ Updated documentation can be found at:  [https://cirrus.readthedocs.io/en/master
 Slurm has replaced PBS Pro as the Batch Scheduler on Cirrus.
 This means that you will have to create new submission scripts before submitting jobs to the compute nodes.
 Documentation including basic Slurm commands, resource limits and example job submission scripts can be found at:
-https://cirrus.readthedocs.io/en/master/user-guide/batch.html
+[https://cirrus.readthedocs.io/en/master/user-guide/batch.html](https://cirrus.readthedocs.io/en/master/user-guide/batch.html)
 
 We are anticipating a large number of Service Desk requests and we ask for your patience over the next few days but we will endeavour to resolve your requests as quickly as possible.
 
-Please contact the Cirrus Service Desk if you experience if you have any concerns regarding this or require assistance accessing Cirrus and apologies for the inconvenience caused by this extended outage.
+Please contact the Cirrus Service Desk if you have any concerns regarding this or require assistance accessing Cirrus and apologies for the inconvenience caused by this extended outage.
 
 
 
