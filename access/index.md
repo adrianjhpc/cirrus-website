@@ -49,6 +49,7 @@ research falls within EPSRC remit or not.
 |-
 | [RAP Open Access](open.html) | 31st October 2019 at 1600 | 17th October 2019 at 1600 | [EPSRC Call details](https://epsrc.ukri.org/funding/calls/rapopenaccesstier2autumn2019/)For EPSRC Remit Only. | [Grant/RAP Access TA Form (Word)](ta/Cirrus-TA-RAPGrant-form.docx)  |
 |-
+| [Access to HPC](access-to-hpc.html) | 4th September 2020 at 16:00 | 7th August 2020 at 16:00 |  [EPSRC Call details](https://epsrc.ukri.org/funding/calls/access-to-high-performance-computing/) EPSRC remit only. ARCHER2 or Tier-2 computing resource for a maximum duration of one year. | [Access to HPC Tier2 TA Form](https://epsrc.ukri.org/files/funding/calls/2020/access-to-hpc-tier-2-technical-assessment/)  |
 
 ### EPSRC Access
 
@@ -58,6 +59,7 @@ different access routes (please follow the links for further information):
 * [Instant Access](instant.html): small amounts of time and storage space to explore use of Cirrus for your research
 * [EPSRC RAP Open Access](open.html): Larger amounts of compute time and storage space for up to 12 months
 * [Grant Access](grant.html): Larger amounts of time and storage for lifetime of research grant
+* [Access to HPC](access-to-hpc.html): Provides an open and relatively flexible route to computational support.
 
 In all cases, you should complete a Cirrus Technical Assessment form. This short form allows our technical experts to ensure that your project will get the most out of access to Cirrus and will help us to make sure that Cirrus can support the research you wish to undertake.  
 
