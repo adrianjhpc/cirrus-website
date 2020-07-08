@@ -20,7 +20,7 @@ EPSRC’s final Tier-2 service, the Materials Modelling Hub, is not accessible t
 
 A two-stage application process will be used.
 
-##Stage 1
+## Stage 1
 
 Applicants must submit a RAP Open Access Technical Assessment Form (see call page) to the [Cirrus Helpdesk](/support/), along with a short project description. This TA form will be assessed by the Cirrus team and returned to the applicant.
 
