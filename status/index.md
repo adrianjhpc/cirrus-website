@@ -5,8 +5,12 @@ summary: Up to date status of the Cirrus service
 ---
 
 ## Known Issues
+No known issues
 
 ### Current Issues
+No current issues
+
+### Recent Issues
 
 #### Cirrus Service Available: Thursday 25th June 14:30
 
@@ -42,9 +46,6 @@ We are anticipating a large number of Service Desk requests and we ask for your 
 
 Please contact the Cirrus Service Desk if you have any concerns regarding this or require assistance accessing Cirrus and apologies for the inconvenience caused by this extended outage.
 
-### Recent Issues
-
-No recent issues
 
 ## Service Calendar and Maintenance
 
@@ -68,7 +69,8 @@ Additional maintenance sessions can be scheduled for major hardware or software 
 
 ### Upcoming Maintenance Sessions
 
-No maintenance planned
+There is an 'At-Risk' Session provisionally booked every Wednesday from 1000 - 1200. 
+An user mailing will be sent if any work is going to take place which may impact users.
 
 
 
