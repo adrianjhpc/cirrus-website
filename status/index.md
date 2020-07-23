@@ -12,8 +12,7 @@ No current issues
 
 ### Recent Issues
 
-#### Cirrus Service Available: Thursday 25th June 14:30
-
+### Thursday 25th June 14:30
 
 We are pleased to announce that Cirrus is now available to all users.
 
@@ -70,7 +69,7 @@ Additional maintenance sessions can be scheduled for major hardware or software 
 ### Upcoming Maintenance Sessions
 
 There is an 'At-Risk' Session provisionally booked every Wednesday from 1000 - 1200. 
-An user mailing will be sent if any work is going to take place which may impact users.
+A user mailing will be sent if any work is going to take place which may impact users.
 
 
 
