@@ -10,6 +10,27 @@ No known issues
 ### Current Issues
 No current issues
 
+### Scheduled Maintenance
+**At-Risk Maintenance Session Wednesday 5th August 0900-1300**
+
+Our system team will be updating the Slurm scheduler configuration this during this maintenance window. There is a slight risk that during scheduler reconfiguration user job submission will stall briefly or fail. If you experience issues, please retry after a few minutes.
+
+During the maintenance, the job size limits and available QoS will change, and we will update the documentation accordingly. Details of the changes being made are:
+
+Max GPUs per user = 16 (16 GPUs allocated to running work for that user)
+Max per-job walltime: 96h (4 days)
+Max running jobs per user: 10
+Max pending jobs per user: 50
+
+To achieve the full 16 nodes, a user should specify “--nodes=4 --exclusive --gres=gpu:4” (4 nodes each of 4 GPUs).
+
+If a user wants more than a single node (4 GPUs), then they must take whole nodes by specifying exclusive, 4 GPUs, and number of nodes. Users cannot just ask for say 7 GPUs, because Slurm will pend the job waiting for a node with 7 GPUs, you need to divide by 4 and round up to whole nodes.
+
+These changes mean that a user could have 2x8GPU jobs running, or 8 2GPU jobs running, for example. There is now no way for a user to have a single job across more than 4 nodes/16 GPUs.
+
+If you have any questions please let us know. 
+
+
 ### Recent Issues
 
 ### Thursday 25th June 14:30
