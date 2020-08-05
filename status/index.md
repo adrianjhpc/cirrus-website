@@ -16,7 +16,7 @@ No current issues
 We are pleased to advise that the At-Risk Maintenance has now completed successfully.
 
 During the maintenance, the job size limits and available QoS were changed, and we have updated the documentation accordingly:
-https://cirrus.readthedocs.io/en/master/user-guide/batch.html#quality-of-service-qos 
+[https://cirrus.readthedocs.io/en/master/user-guide/batch.html#quality-of-service-qos](https://cirrus.readthedocs.io/en/master/user-guide/batch.html#quality-of-service-qos)
 
 If you have any questions please let us know. 
 
