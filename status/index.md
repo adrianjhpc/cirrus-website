@@ -11,11 +11,12 @@ No known issues
 No current issues
 
 ### Scheduled Maintenance
-**At-Risk Maintenance Session Wednesday 5th August 0900-1300**
+**At-Risk Maintenance Session Wednesday 5th August 0900-1300 COMPLETE**
 
-Our system team will be updating the Slurm scheduler configuration this during this maintenance window. There is a slight risk that during scheduler reconfiguration user job submission will stall briefly or fail. If you experience issues, please retry after a few minutes.
+We are pleased to advise that the At-Risk Maintenance has now completed successfully.
 
-During the maintenance, the job size limits and available QoS will change, and we will update the documentation accordingly. 
+During the maintenance, the job size limits and available QoS were changed, and we have updated the documentation accordingly:
+https://cirrus.readthedocs.io/en/master/user-guide/batch.html#quality-of-service-qos 
 
 If you have any questions please let us know. 
 
