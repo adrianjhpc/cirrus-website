@@ -18,9 +18,11 @@ No recent issues
 
 ### Upcoming Maintenance Sessions
 
-**Full Maintenance Session Wednesday 26th August 0900-1700 BST**
+**Full Maintenance Session Wednesday 26th August 1830 BST**
 
-Both login and compute nodes will be unavailable for essential site electrical work.
+Apologies for the slight delay, Cirrus has now been returned to full service.
+We appreciate your patience during this planned outage. 
+Please contact the Service Desk if you experience any issues. 
 
 ### At Risk Maintenance Sessions
 
