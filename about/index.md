@@ -51,6 +51,8 @@ conditions of access:
 -   [University of Edinburgh Security
     Policy](http://www.ed.ac.uk/information-services/about/policies-and-regulations/security-policies/security-policy)
 
+- [Cirrus Website Accessibility Policy](policies/accessibility)
+
 ## People
 
 Cirrus is run by [EPCC](http://www.epcc.ed.ac.uk) and many people play a
