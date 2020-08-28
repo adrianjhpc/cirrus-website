@@ -5,7 +5,7 @@ summary: Committed to ensuring our websites are accessible to the widest possibl
 ---
 
 
-## Accessibility statement for ARCHER2 website
+## Accessibility statement for the Cirrus websites
 
 This accessibility statement applies to [https://www.cirrus.ac.uk](https://www.cirrus.ac.uk) and [https://cirrus.readthedocs.io/en/master/
 ](https://cirrus.readthedocs.io/en/master/)
