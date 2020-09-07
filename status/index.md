@@ -8,7 +8,12 @@ summary: Up to date status of the Cirrus service
 No known issues
 
 ### Current Issues
-No current issues
+
+** Cirrus down Monday 7th September 11:00 BST **
+
+Cirrus is experiencing cooling issues and is currently unavailable.  
+Our team are working on the issue and we will provide an update as soon as we know more details.
+We apologise for the inconvenience.
 
 ### Recent Issues
 
