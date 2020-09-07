@@ -11,8 +11,10 @@ No known issues
 
 ** Cirrus down Monday 7th September 11:00 BST **
 
-Cirrus is experiencing cooling issues and is currently unavailable.  
-Our team are working on the issue and we will provide an update as soon as we know more details.
+Cirrus is unavailable due to a valve failure in the coolant system. 
+The system will need to remain powered down until it can be replaced.
+Our systems team are working with HPE to restore service as quickly as possible, and we hope to be able to provide a further update tomorrow.
+
 We apologise for the inconvenience.
 
 ### Recent Issues
