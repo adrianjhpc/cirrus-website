@@ -9,13 +9,13 @@ No known issues
 
 ### Current Issues
 
-** Cirrus down Monday 7th September 11:00 BST **
+** Cirrus down Tuesday 8th September 1300 BST **
 
-Cirrus is unavailable due to a valve failure in the coolant system. 
-The system will need to remain powered down until it can be replaced.
-Our systems team are working with HPE to restore service as quickly as possible, and we hope to be able to provide a further update tomorrow.
+We're very sorry that Cirrus is currently offline. Yesterday during routine replacement of failed memory in one of the compute nodes by an HPE maintenance contractor, a water cooling valve failed to close when the node was withdrawn. Water then escaped from the cooling system. Cirrus was shut down immediately and the failed valve identified. Replacement parts are being supplied by HPE and will be installed over the next couple of days. We are also taking the opportunity, given the system is now empty of cooling water, to inspect the other valves in the system. This is a very unusual occurrence.
 
-We apologise for the inconvenience.
+We hope to have Cirrus back online by the end of the week and will keep you informed of progress.
+
+We apologise for the inconvenience caused by this unplanned outage and thank you for your patience.
 
 ### Recent Issues
 
