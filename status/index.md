@@ -9,11 +9,15 @@ No known issues
 
 ### Current Issues
 
-** Cirrus Update Friday 11th September 1700 BST 
-The team are continuing to restore Cirrus to full service. The login nodes are available and we are in the process of releasing the compute nodes to make them available also. A user mailing will be sent detailing this once the full service is restored. 
+**Cirrus Update Friday 11th September 1730 BST**
 
+Cirrus is now fully restored to service. HPE have been on site this week working with our systems team and following extensive checks are happy to restore the service.
 
-** Cirrus down Tuesday 8th September 1300 BST **
+Please let us know if you experience any issues and we apologise for the inconvenience caused by this unplanned outage.
+
+### Recent Issues
+
+**Cirrus down Tuesday 8th September 1300 BST**
 
 We're very sorry that Cirrus is currently offline. Yesterday during routine replacement of failed memory in one of the compute nodes by an HPE maintenance contractor, a water cooling valve failed to close when the node was withdrawn. Water then escaped from the cooling system. Cirrus was shut down immediately and the failed valve identified. Replacement parts are being supplied by HPE and will be installed over the next couple of days. We are also taking the opportunity, given the system is now empty of cooling water, to inspect the other valves in the system. This is a very unusual occurrence.
 
@@ -21,9 +25,6 @@ We hope to have Cirrus back online by the end of the week and will keep you info
 
 We apologise for the inconvenience caused by this unplanned outage and thank you for your patience.
 
-### Recent Issues
-
-No recent issues
 
 ## Service Calendar and Maintenance
 
