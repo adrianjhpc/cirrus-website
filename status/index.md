@@ -9,13 +9,20 @@ No known issues
 
 ### Current Issues
 
+No current issues
+
+### Recent Issues
+
+**Cirrus network issue Monday 14th September 1200 BST**
+
+There was a brief network outage which affected access to Cirrus and also some of our other services shortly after 12:00 today, Monday 14th September.
+Access was restored within a few minutes and appears to be stable now. Our team are investigating the root cause. We apologise for any inconvenience caused.
+
 **Cirrus Update Friday 11th September 1730 BST**
 
 Cirrus is now fully restored to service. HPE have been on site this week working with our systems team and following extensive checks are happy to restore the service.
 
 Please let us know if you experience any issues and we apologise for the inconvenience caused by this unplanned outage.
-
-### Recent Issues
 
 **Cirrus down Tuesday 8th September 1300 BST**
 
