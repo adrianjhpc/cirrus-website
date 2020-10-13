@@ -36,13 +36,10 @@ We apologise for the inconvenience caused by this unplanned outage and thank you
 ## Service Calendar and Maintenance
 
 ### Upcoming Maintenance Sessions
-
-**Full Maintenance Session Wednesday 26th August 1830 BST**
-
-Apologies for the slight delay, Cirrus has now been returned to full service.
-We appreciate your patience during this planned outage. 
-Please contact the Service Desk if you experience any issues. 
-
+During the 'At-Risk' Session scheduled for tomorrow (Wednesday 14th October) a missing firmware from the GPU node enclosures will be installed. 
+A reservation has been put in place on the system to prevent GPU work running after 0800. This is needed because the switches providing the nodes with their operating system filesystem will be rebooted during the process, which is likely to cause disruption to running work.  The reservation will be removed as soon as the work is complete.  
+This should be 'At-Risk' for the system as a whole as any issues with the optical network on the GPU nodes should not affect the rest of the system.
+ 
 ### At Risk Maintenance Sessions
 
 There is an 'At-Risk' Session provisionally booked every Wednesday from 1000 - 1200. 
