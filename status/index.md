@@ -36,10 +36,13 @@ We apologise for the inconvenience caused by this unplanned outage and thank you
 ## Service Calendar and Maintenance
 
 ### Upcoming Maintenance Sessions
-During the 'At-Risk' Session scheduled for tomorrow (Wednesday 14th October) a missing firmware from the GPU node enclosures will be installed. 
-A reservation has been put in place on the system to prevent GPU work running after 0800. This is needed because the switches providing the nodes with their operating system filesystem will be rebooted during the process, which is likely to cause disruption to running work.  The reservation will be removed as soon as the work is complete.  
-This should be 'At-Risk' for the system as a whole as any issues with the optical network on the GPU nodes should not affect the rest of the system.
- 
+
+As you are aware, we have regular 'at-risk' maintenance sessions on Wednesdays from 1000-1200. 
+
+During the session tomorrow, a missing firmware from the GPU node enclosures will be installed. A reservation has been put in place on the system to prevent GPU work running after 0800. This is needed because the switches providing the nodes with their operating system filesystem will be rebooted during the process, which is likely to cause disruption to running work. The reservation will be removed as soon as the work is complete.
+
+This should be 'at-risk' for the system as a whole as any issues with the optical network on the GPU nodes should not affect the rest of the system.
+
 ### At Risk Maintenance Sessions
 
 There is an 'At-Risk' Session provisionally booked every Wednesday from 1000 - 1200. 
