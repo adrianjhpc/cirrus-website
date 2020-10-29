@@ -30,6 +30,10 @@ This should be 'At-Risk' for the system as a whole as any issues with the optica
 
 ### At Risk Maintenance Sessions
 
+Thursday 29th October 1100 GMT
+There is an 'At-Risk' Session to replace a faulty DDN controller on the main Cirrus lustre filesystem. 
+We do not expect this to have any impact on users but please report any issues you experience to support@cirrus.ac.uk 
+
 There is an 'At-Risk' Session provisionally booked every Wednesday from 1000 - 1200. 
 A user mailing will be sent if any work is going to take place which may impact users.
 
