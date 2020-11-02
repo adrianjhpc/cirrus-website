@@ -13,10 +13,7 @@ No current issues
 
 ### Recent Issues
 
-**Cirrus network issue Monday 14th September 1200 BST**
-
-There was a brief network outage which affected access to Cirrus and also some of our other services shortly after 12:00 today, Monday 14th September.
-Access was restored within a few minutes and appears to be stable now. Our team are investigating the root cause. We apologise for any inconvenience caused.
+No Recent Issues. 
 
 ## Service Calendar and Maintenance
 
@@ -24,18 +21,16 @@ Access was restored within a few minutes and appears to be stable now. Our team 
 
 As you are aware, we have regular 'At-Risk' maintenance sessions on Wednesdays from 1000-1200. 
 
-During the session tomorrow, a missing firmware from the GPU node enclosures will be installed. A reservation has been put in place on the system to prevent GPU work running after 0800. This is needed because the switches providing the nodes with their operating system filesystem will be rebooted during the process, which is likely to cause disruption to running work. The reservation will be removed as soon as the work is complete.
-
-This should be 'At-Risk' for the system as a whole as any issues with the optical network on the GPU nodes should not affect the rest of the system.
-
 ### At Risk Maintenance Sessions
-
-Thursday 29th October 1100 GMT
-There is an 'At-Risk' Session to replace a faulty DDN controller on the main Cirrus lustre filesystem. 
-We do not expect this to have any impact on users but please report any issues you experience to support@cirrus.ac.uk 
-
 There is an 'At-Risk' Session provisionally booked every Wednesday from 1000 - 1200. 
 A user mailing will be sent if any work is going to take place which may impact users.
+
+Wednesday 4th November 1000 - 1200 GMT
+There is an 'At-Risk' Session to replace a faulty DDN controller on the main Cirrus lustre filesystem. 
+
+We will also undertake maintenance on the BeeGFS storage controller. IBM have recommended that we re-seat one of the controllers to attempt to correct a multipath issue. The controllers are resilient and the activity is being undertaken on the inactive controller.
+
+We do not expect the maintenace to have any impact on users but please report any issues you experience to support@cirrus.ac.uk 
 
 ### Service Calendar
 
