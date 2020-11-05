@@ -11,16 +11,16 @@ The Cirrus compute provision consists of 282 compute nodes connected
 together by a single Infiniband fabric. 280 of these are standard 
 compute nodes and 2 of these contain 4 GPU accelerators.
 
-There are 3 login nodes that share a common software environment and
-file system with the compute nodes.
-
 Cirrus Phase II saw the addition of 36 HPE Plainfield Blades each with two Intel 
 Xeon processors and four NVIDIA v100 GPUs. A 512TB(raw) of NVMe fast storage for 
 data intensive applications on Cirrus was also added. 
 
+There are 3 login nodes that share a common software environment and
+file system with the compute nodes.
+
 ### Compute Nodes
 
-#### Standard compute nodes
+#### CPU compute nodes
 
 Cirrus standard compute nodes each contain two 2.1 GHz, 18-core Intel Xeon
 E5-2695 (Broadwell) series processors. Each of the cores in these
@@ -43,6 +43,11 @@ There are 280 standard compute nodes on Cirrus giving a total of 10,080 cores.
 When employing hyperthreads, the core count doubles to 20,160.
 
 #### GPU compute nodes
+
+The Cirrus Phase II GPU nodes added 36 Plainfield blades (single GPU node with 
+two Intel processors and four GPUs). These blades were similar to the two existing 
+blades in Cirrus, except that they have Intel CascadeLake processors (6248) rather 
+than Intel Xeon Gold 6148 (Skylake) and 2933 MHz memory. 
 
 The Cirrus GPU compute nodes each contain two 2.4 GHz, 20-core Intel Xeon Gold
 6148 (Skylake) series processers. Each of the cores in these
@@ -67,11 +72,6 @@ Each GPU accelerator has 16 GiB of fast GPU memory.
 
 There are 2 GPU compute nodes on Cirrus giving a total of 80 CPU cores
 and 8 GPU accelerators.
-
-The Cirrus Phase II GPU nodes added 36 Plainfield blades (single GPU node with 
-two Intel processors and four GPUs). These blades are similar to the two existing 
-blades in Cirrus (as detailed above), except that they have Intel CascadeLake processors 
-(6248) and 2933 MHz memory. 
 
 
 Infiniband fabric
