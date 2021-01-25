@@ -25,13 +25,12 @@ As you are aware, we have regular 'At-Risk' maintenance sessions on Wednesdays f
 There is an 'At-Risk' Session provisionally booked every Wednesday from 1000 - 1200. 
 A user mailing will be sent if any work is going to take place which may impact users.
 
-Wednesday 9th December 1000 - 1200 GMT
+Wednesday 27th January 1000 - 1200 GMT
 There is an 'At-Risk' Session today. 
 
-A ddn controller battery which will be replaced. 
-There will be a change to the Slurm configuration for the CPU Nodes, which will increase the user limits from 10% to 25% of the system. 
+There will be a change to the Slurm configuration for the GPU Nodes, which will increase the user limits from 16 GPUs to 64 GPUs. 
 
-We do not expect the maintenace to have any impact on users but please report any issues you experience to support@cirrus.ac.uk 
+We do not expect the maintenance to have any impact on users but please report any issues you experience to support@cirrus.ac.uk 
 
 ### Service Calendar
 
