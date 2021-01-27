@@ -29,6 +29,7 @@ Wednesday 27th January 1000 - 1200 GMT
 There is an 'At-Risk' Session today. 
 
 There will be a change to the Slurm configuration for the GPU Nodes, which will increase the user limits from 16 GPUs to 64 GPUs. 
+This has been completed. 
 
 We do not expect the maintenance to have any impact on users but please report any issues you experience to support@cirrus.ac.uk 
 
