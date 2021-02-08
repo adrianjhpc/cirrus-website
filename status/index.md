@@ -5,7 +5,6 @@ summary: Up to date status of the Cirrus service
 ---
 
 ## Known Issues
-No known issues
 
 ### Current Issues
 
