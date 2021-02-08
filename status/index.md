@@ -8,6 +8,11 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
+#### Update: Monday 8th February 16:30
+
+A power engineer will be on site at our compute facility tomorrow morning at 08:30 to complete the final switch-over to conditioned power. <br> 
+Following this, we will begin to restore service.
+
 #### Monday 8th February 8:00  
 
 A powercut affecting a large part of SE Scotland last night has affected machines and hosting services based at our ACF centre. <br>
