@@ -9,7 +9,14 @@ No known issues
 
 ### Current Issues
 
-No current issues
+#### Monday 8th February 8:00
+
+A powercut affecting a large part of SE Scotland last night has affected machines and hosting services based at our ACF centre. <br>
+At present Cirrus is unavailable for users to log on. <br>
+SAFE is also unavailable so the Service Desk are unable to see or respond to user queries. <br>
+Our team are on site and we will provide further updates as soon as possible. <br>
+We apologise for this unplanned interruption to service.
+
 
 ### Recent Issues
 
