@@ -10,16 +10,14 @@ summary: Up to date status of the Cirrus service
 
 No Current Issues
 
-
 ### Recent Issues
-
 
 ### Cirrus Service restored :  Tuesday 9th February 17.00
 
 Cirrus has been restored to service, following the power outage affecting a large part of SE Scotland on Monday night. <br>
-We apologise for this unplanned interruption to service.<br>
+We apologise for this unplanned interruption to service.
+
 Please alert the [Service desk](mailto:helpdesk@cirrus.ac.uk) if you experience any further issues.
- 
 
 ## Service Calendar and Maintenance
 
@@ -28,16 +26,9 @@ Please alert the [Service desk](mailto:helpdesk@cirrus.ac.uk) if you experience 
 As you are aware, we have regular 'At-Risk' maintenance sessions on Wednesdays from 1000-1200. 
 
 ### At Risk Maintenance Sessions
+
 There is an 'At-Risk' Session provisionally booked every Wednesday from 1000 - 1200. 
 A user mailing will be sent if any work is going to take place which may impact users.
-
-Wednesday 27th January 1000 - 1200 GMT
-There is an 'At-Risk' Session today. 
-
-There will be a change to the Slurm configuration for the GPU Nodes, which will increase the user limits from 16 GPUs to 64 GPUs. 
-This has been completed. 
-
-We do not expect the maintenance to have any impact on users but please report any issues you experience to support@cirrus.ac.uk 
 
 ### Service Calendar
 
