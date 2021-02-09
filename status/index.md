@@ -8,25 +8,18 @@ summary: Up to date status of the Cirrus service
 
 ### Current Issues
 
-#### Update: Monday 8th February 16:30
-
-A power engineer will be on site at our compute facility tomorrow morning at 08:30 to complete the final switch-over to conditioned power. <br> 
-Following this, we will begin to restore service.
-
-#### Monday 8th February 8:00  
-
-A powercut affecting a large part of SE Scotland last night has affected machines and hosting services based at our ACF centre. <br>
-At present Cirrus is unavailable for users to log on. <br>
-Our team are on site and we will provide further updates as soon as possible. <br>
-We apologise for this unplanned interruption to service.
+No Current Issues
 
 
 ### Recent Issues
 
-#### Monday 8th February 9:30  SAFE restored
 
-SAFE was also unavailable due to the power outage so the Service Desk were unable to see or respond to user queries. <br>
-SAFE has now been restored and our team are responding as quickly as possible to queries.
+### Cirrus Service restored :  Tuesday 9th February 17.00
+
+Cirrus has been restored to service, following the power outage affecting a large part of SE Scotland on Monday night. <br>
+We apologise for this unplanned interruption to service.<br>
+Please alert the [Service desk](mailto:helpdesk@cirrus.ac.uk) if you experience any further issues.
+ 
 
 ## Service Calendar and Maintenance
 
