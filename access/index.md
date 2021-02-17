@@ -49,6 +49,8 @@ research falls within EPSRC remit or not.
 |-
 | [Access to HPC](access-to-hpc.html) | 4th September 2020 at 16:00 | 7th August 2020 at 16:00 |  [EPSRC Call details](https://epsrc.ukri.org/funding/calls/access-to-high-performance-computing/) EPSRC remit only. ARCHER2 or Tier-2 computing resource for a maximum duration of one year. | [Access to HPC Tier2 TA Form](https://epsrc.ukri.org/files/funding/calls/2020/access-to-hpc-tier-2-technical-assessment/)  |
 |-
+| [Cirrus Driving Test](driving-test.html) | Always Open |  | [Details](driving-test.html) | |
+|-
 | [Access to Cirrus for Covid19 research](covid19.html) |  Open now |  |[Details](covid19.html) |  |
 
 ### EPSRC Access
