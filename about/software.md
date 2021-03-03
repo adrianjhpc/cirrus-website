@@ -29,7 +29,7 @@ example job submission scripts) is available in the online documentation, see:
 We also record instructions for compiling many packages on Cirrus that users may
 find useful in a GitHub repository, see:
 
-* [GitHub: Cirrus Packages Build Instructions](https://github.com/EPCCed/cirrus-packages)
+* [GitHub: Package Build Instructions](https://github.com/hpc-uk/build-instructions)
 
 Application Development Environment
 -----------------------------------
@@ -42,15 +42,11 @@ In short:
 * Parallel Programming Models - MPI, OpenMP
 * Libraries - BLAS, LAPACK, BLACS, ScaLAPACK, FFTW, and more
 
-For more information see:
-
-* [User Guide: Application Development Environment](http://cirrus.readthedocs.io/en/latest/user-guide/development.html)
+For more information see the [Cirrus Online Documentation](http://cirrus.readthedocs.io).
 
 Job Submission System
 ---------------------
 
-Cirrus uses the PBS Pro job submission system. More information on running jobs on
-Cirrus and PBS Pro options can be found in the User Guide:
-
-* [User Guide: Running Jobs](http://cirrus.readthedocs.io/en/latest/user-guide/batch.html)
+Cirrus uses the Slurm job submission system. More information on running jobs on
+Cirrus and Slurm options can be found in the [Cirrus Online Documentation](http://cirrus.readthedocs.io).
 
