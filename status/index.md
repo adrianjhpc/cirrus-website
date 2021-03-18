@@ -5,6 +5,8 @@ summary: Up to date status of the Cirrus service
 ---
 
 ## Known Issues
+The disk usage reporting is currently not work within the SAFE. We are looking to resolve the issue with the uploading of the data from Cirrus. 
+In the meantime, please check your disk usage on Cirrus or contact the Service Desk if you require assistance. 
 
 ### Current Issues
 
@@ -12,18 +14,21 @@ No Current Issues
 
 ### Recent Issues
 
-### Cirrus Service restored :  Tuesday 9th February 17.00
-
-Cirrus has been restored to service, following the power outage affecting a large part of SE Scotland on Monday night. <br>
-We apologise for this unplanned interruption to service.
-
-Please alert the [Service desk](mailto:helpdesk@cirrus.ac.uk) if you experience any further issues.
+No Recent Issues
 
 ## Service Calendar and Maintenance
 
 ### Upcoming Maintenance Sessions
 
-As you are aware, we have regular 'At-Risk' maintenance sessions on Wednesdays from 1000-1200. 
+### Full Cirrus Outage:  Wednesday 31st March 0900-1700 BST
+A full outage is required for essential work on Cirrus. 
+
+The work will impact the full Cirrus service and so you will not be able to connect to the Cirrus login nodes and no jobs will run during this time on the Cirrus CPU and GPU nodes.
+
+The Cirrus status page (https://www.cirrus.ac.uk/status/) will be updated throughout the work and users will be notified when the Cirrus service is available.
+We apologise for the inconvenience that may be caused by this essential outage.
+
+There are also regular 'At-Risk' maintenance sessions on Wednesdays from 1000-1200. 
 
 ### At Risk Maintenance Sessions
 
