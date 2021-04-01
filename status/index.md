@@ -20,7 +20,7 @@ No Recent Issues
 
 ### Upcoming Maintenance Sessions
 
-### CANCELLED: Full Cirrus Outage:  Wednesday 31st March 0900-1700 BST
+### NEW DATE: Full Cirrus Outage:  Wednesday 7th April 0900-1700 BST
 A full outage is required for essential work on Cirrus. 
 
 The work will impact the full Cirrus service and so you will not be able to connect to the Cirrus login nodes and no jobs will run during this time on the Cirrus CPU and GPU nodes.
