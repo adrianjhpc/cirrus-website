@@ -14,23 +14,13 @@ No Current Issues
 
 ### Recent Issues
 
-No Recent Issues
+There was a planned maintenance outage from 09:00-15:30 on Wednesday 7th April 2021. The maintenance session was concluded successfully, and Cirrus is back in service.
 
 ## Service Calendar and Maintenance
 
 ### Upcoming Maintenance Sessions
 
-### NEW DATE: Full Cirrus Outage:  Wednesday 7th April 0900-1700 BST
-A full outage is required for essential work on Cirrus. 
-
-The work will impact the full Cirrus service and so you will not be able to connect to the Cirrus login nodes and no jobs will run during this time on the Cirrus CPU and GPU nodes.
-
-The Cirrus status page (https://www.cirrus.ac.uk/status/) will be updated throughout the work and users will be notified when the Cirrus service is available.
-We apologise for the inconvenience that may be caused by this essential outage.
-
-This work will be rescheduled and users will be notified once the date has been confirmed. 
-
-There are also regular 'At-Risk' maintenance sessions on Wednesdays from 1000-1200. 
+There are regular 'At-Risk' maintenance sessions on Wednesdays from 1000-1200. 
 
 ### At Risk Maintenance Sessions
 
