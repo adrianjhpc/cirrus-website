@@ -16,18 +16,23 @@ The services available are ARCHER2, the upcoming Tier-1 national supercomputer a
 EPSRC’s final Tier-2 service, the Materials Modelling Hub, is not accessible through this call but can be accessed through EPSRC’s Materials Chemistry Consortium (MCC) and UK Car-Parrinello Consortium (UKCP).
 
 
+See [Cirrus Open Calls](./#current-open-calls)
+
+
 ## Application Procedure
 
 A two-stage application process will be used.
 
 ## Stage 1
 
-Applicants must submit a RAP Open Access Technical Assessment Form (see call page) to the [Cirrus Helpdesk](/support/), along with a short project description. This TA form will be assessed by the Cirrus team and returned to the applicant.
+Applicants must submit an Access to HPC Tier2 Technical Assessment Form (see [call page](./#current-open-calls)) to the [Cirrus Helpdesk](/support/), along with a short project description. This TA form will be assessed by the Cirrus team and returned to the applicant.
 
 ## Stage 2
 
-Applicants must then submit the following documents to the EPSRC RAP Open Access Call page:
+Applicants must then submit the following documents to the [EPSRC Access to HPC Call page](https://www.ukri.org/opportunity/access-to-high-performance-computing/):
 
 1. Completed and approved Technical Assessment
-2. Application Form
+2. Application Form (Available from the [EPSRC Access to HPC Call page](https://www.ukri.org/opportunity/access-to-high-performance-computing/) under "Additional info")
 3. A one-page diagrammatic workplan
+
+
