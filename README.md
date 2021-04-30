@@ -23,10 +23,12 @@ If you wish to build the website locally, then you should install Jekyll:
 
 - <https://jekyllrb.com/>
 
+Advice on how to set this up on Windows 10 can be found [here](https://github.com/EPCCed/cirrus-website/blob/master/README%20How%20to%20set%20up%20jekyll%20to%20preview%20website%20changes%20locally%20on%20Win10.md).
+
 Once Jekyll is installed, you can test the website with:
 
 ```
-make serve
+jekyll serve
 ```
 
 This will run a temporary webserver from which you can view the updated website locally.
