@@ -5,16 +5,19 @@ summary: Up to date status of the Cirrus service
 ---
 
 ## Known Issues
-The disk usage reporting is currently not work within the SAFE. We are looking to resolve the issue with the uploading of the data from Cirrus. 
-In the meantime, please check your disk usage on Cirrus or contact the Service Desk if you require assistance. 
+No known Issues. 
 
 ### Current Issues
 
-A file system controller is currently experiencing very high load, so users may experience slow file system response. Our systems team are working with the vendor to resolve the issue.
+No Current Issues. 
 
 ### Recent Issues
 
-There was a planned maintenance outage from 09:00-15:30 on Wednesday 7th April 2021. The maintenance session was concluded successfully, and Cirrus is back in service.
+Thursday 20th May
+A file system controller was experiencing very high load, so users may have experienced slow file system response. Our systems team worked with the vendor and believe the issue is now resolved. 
+
+Wednesday 12th May
+The disk usage reporting is now working within the SAFE. Data is being uploaded from Cirrus. 
 
 ## Service Calendar and Maintenance
 
