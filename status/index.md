@@ -9,18 +9,14 @@ No Known Issues.
 
 ### Current Issues
 
-Wednesday 30th June 0930
-Cirrus experienced an issue overnight with the authentication server which manages the accounts on the service. 
-To resolve this issue, we will need to restart the Cirrus authentication services and will do this at 1000.
-While we do this, user logins will fail, file access may be slow, jobs will not start, jobs cannot be queued.
-
-We expect the outage to be relatively short, within 30 minutes and a further user mailing will be sent to notify you when the service has resumed. 
-
-We apologise for the inconvenience caused by this unplanned outage. 
- 
+No Current Issues
 
 ### Recent Issues
 
+Wednesday 30th June 1030
+Cirrus experienced an issue overnight with the authentication server which manages the accounts on the service. 
+The Cirrus authentication services were restarted and the Cirrus Service is now fully available. 
+ 
 Thursday 20th May
 A file system controller was experiencing very high load, so users may have experienced slow file system response. Our systems team worked with the vendor and believe the issue is now resolved. 
 
