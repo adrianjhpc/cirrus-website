@@ -23,9 +23,7 @@ with larger resources if the trial is successful.
 Resources Available
 -------------------
 
-Although there is no limit on the amount of resource that can be requested through the
-Scottish academic access mechanism, we would expect applications for test access to be
-a maximum of around 15,000 Core-h or 600 GPU-h and production access to be for a maximum of 
+We would expect applications for test access to be a maximum of around 15,000 Core-h or 600 GPU-h and production access to be for a maximum of 
 1,000,000 Core-h or 40,000 GPU-h. 
 
 Test access will be for 6 months and production access for 1 year.
