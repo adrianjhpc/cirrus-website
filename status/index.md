@@ -5,11 +5,19 @@ summary: Up to date status of the Cirrus service
 ---
 
 ## Known Issues
-No known Issues. 
+No Known Issues. 
 
 ### Current Issues
 
-No Current Issues. 
+Wednesday 30th June 0930
+Cirrus experienced an issue overnight with the authentication server which manages the accounts on the service. 
+To resolve this issue, we will need to restart the Cirrus authentication services and will do this at 1000.
+While we do this, user logins will fail, file access may be slow, jobs will not start, jobs cannot be queued.
+
+We expect the outage to be relatively short, within 30 minutes and a further user mailing will be sent to notify you when the service has resumed. 
+
+We apologise for the inconvenience caused by this unplanned outage. 
+ 
 
 ### Recent Issues
 
