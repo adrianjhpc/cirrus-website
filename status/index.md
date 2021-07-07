@@ -5,7 +5,8 @@ summary: Up to date status of the Cirrus service
 ---
 
 ## Known Issues
-The WoS Object Store is currently unavailable. We are working with the vendor, DDN to restore storage.  
+The Object Store (WoS) is currently unavailable. We are working with the vendor to restore storage as soon as possible.  
+We apologise for the inconvenience caused by this unplanned outage. 
 
 ### Current Issues
 
