@@ -14,17 +14,17 @@ No Current Issues
 
 ### Recent Issues
 
-Wednesday 30th June 1030
-Cirrus experienced an issue overnight with the authentication server which manages the accounts on the service. 
-The Cirrus authentication services were restarted and the Cirrus Service is now fully available. 
- 
-Thursday 20th May
-A file system controller was experiencing very high load, so users may have experienced slow file system response. Our systems team worked with the vendor and believe the issue is now resolved. 
-
-Wednesday 12th May
-The disk usage reporting is now working within the SAFE. Data is being uploaded from Cirrus. 
+No recent issues
 
 ## Service Calendar and Maintenance
+
+### Wednesday 21st July 2021
+
+During the at-risk maintenance on Wednesday 21st July our systems team will be making some updates.
+
+This work should not impact users as jobs will run as usual.  Nodes, including Login nodes will be updated in turn to minimise impact and maintain access throughout.
+
+Please contact [support@cirrus.ac.uk](mailto:support@cirrus.ac.uk) if you do experience any issues.
 
 ### Upcoming Maintenance Sessions
 
