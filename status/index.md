@@ -18,17 +18,22 @@ No recent issues
 
 ## Service Calendar and Maintenance
 
-### Wednesday 21st July 2021
-
-During the at-risk maintenance on Wednesday 21st July our systems team will be making some updates.
-
-This work should not impact users as jobs will run as usual.  Nodes, including Login nodes will be updated in turn to minimise impact and maintain access throughout.
-
-Please contact [support@cirrus.ac.uk](mailto:support@cirrus.ac.uk) if you do experience any issues.
 
 ### Upcoming Maintenance Sessions
 
-There are regular 'At-Risk' maintenance sessions on Wednesdays from 1000-1200. 
+#### Wednesday 18th August 
+
+Essential networking work will take place at the Advanced Computing Facility (ACF). 
+
+We expect the outage will be very short, and will take place soon after 10:00. 
+
+During this period, your connection to the User Access Node (UAN) may be lost. Please wait a couple of minutes and then try to reconnect. 
+
+Jobs running on the compute nodes will not be impacted. 
+
+We will send a user mailing once the work is completed. 
+
+<!--There are regular 'At-Risk' maintenance sessions on Wednesdays from 1000-1200. -->
 
 ### At Risk Maintenance Sessions
 
