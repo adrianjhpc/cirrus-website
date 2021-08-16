@@ -25,7 +25,7 @@ No recent issues
 
 Essential networking work will take place at the Advanced Computing Facility (ACF). 
 
-We expect the outage will be very short, and will take place soon after 10:00. 
+We expect the outage will be very short, and will take place between 10:00 and 15:00. 
 
 During this period, your connection to the User Access Node (UAN) may be lost. Please wait a couple of minutes and then try to reconnect. 
 
