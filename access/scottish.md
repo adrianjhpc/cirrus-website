@@ -23,8 +23,8 @@ with larger resources if the trial is successful.
 Resources Available
 -------------------
 
-We would expect applications for test access to be a maximum of around 15,000 Core-h or 600 GPU-h and production access to be for a maximum of 
-1,000,000 Core-h or 40,000 GPU-h. 
+We would expect applications for test access to be a maximum of around 15,000 CPU-h or 600 GPU-h and production access to be for a maximum of 
+1,000,000 CPU-h or 40,000 GPU-h. 
 
 Test access will be for 6 months and production access for 1 year.
 
