@@ -28,7 +28,7 @@ We would expect applications for test access to be a maximum of around 15,000 Co
 
 Test access will be for 6 months and production access for 1 year.
 
-Application Proceedure
+Application Procedure
 ----------------------
 
 A [Cirrus Scottish Academic Access Technical Assessment Form](ta/Cirrus-TA-ScotAccess-form.docx)
