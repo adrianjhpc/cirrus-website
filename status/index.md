@@ -19,25 +19,18 @@ No recent issues
 ## Service Calendar and Maintenance
 
 
-### Upcoming Maintenance Sessions
+## Upcoming Maintenance Sessions
 
-#### Wednesday 18th August 
-
-Essential networking work will take place at the Advanced Computing Facility (ACF). 
-
-We expect the outage will be very short, and will take place between 10:00 and 15:00. 
-
-During this period, your connection to the User Access Node (UAN) may be lost. Please wait a couple of minutes and then try to reconnect. 
-
-File transfers may be affected.
-
-Jobs running on the compute nodes will not be impacted. 
-
-We will send a user mailing once the work is completed. 
+There are no planned maintenance sessions. 
 
 <!--There are regular 'At-Risk' maintenance sessions on Wednesdays from 1000-1200. -->
 
-### At Risk Maintenance Sessions
+## Completed Maintenance Sessions
+### Wednesday 18th August 
+
+The networking maintenance has now been completed successfully at the Advanced Computing Facility (ACF). 
+
+## At Risk Maintenance Sessions
 
 There is an 'At-Risk' Session provisionally booked every Wednesday from 1000 - 1200. 
 A user mailing will be sent if any work is going to take place which may impact users.
