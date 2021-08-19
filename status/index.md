@@ -22,7 +22,42 @@ No recent issues
 ## Upcoming Maintenance Sessions
 
 There are no planned maintenance sessions. 
+### Wednesday 8th September 
 
+#### Modules Deletions
+As part of our regular maintenance of the Cirrus Service, we would like to remove outdated, broken or unused modules.
+
+MODULE             
+ansys/17.2	  Please use later version
+ansys/19.2	
+ansys/2020R1	
+
+Intel 19.0.0.117  Please use intel-19.5 or later.
+
+matlab/R2018a	  Please use later version
+
+nvidia/cuda-10.1  Please use the latest NVIDIA HPC SDK. See "module avail nvidia/nvhpc" for current versions.
+nvidia/cuda-10.2	
+nvidia/cuda-11.0	
+nvidia/mathlibs-10.1	
+nvidia/mathlibs-10.2	
+nvidia/compilers-20.9	
+nvidia-compilers-mpi-20.9	
+
+openmpi/4.0.3	        Please use openmpi/4.1.0
+openmpi/4.0.3-gcc8	Please use openmpi/4.1.0
+openmpi/4.0.5-ucx	Please use openmpi/4.1.0
+openmpi/4.1.0-cuda	Please use openmpi/4.1.0-cuda-11.2
+openmpi/4.1.0-cuda-10.1	Please use openmpi/4.1.0-cuda-11.2
+openmpi/4.1.0-cuda-10.2	Please use openmpi/4.1.0-cuda-11.2
+openmpi/4.1.0-ucx-gcc8	Please use openmpi/4.1.0
+
+R/3.4.0	Old	        Please use later version
+singularity/3.6.1	Please use singularity/3.7.2 (`--with-setuid` install)
+singularity/3.7.0	Please use singularity/3.7.2 (`--with-setuid` install)
+singularity/3.7.1	Please use singularity/3.7.2 (`--with-setuid` install)
+
+Please get in touch by Wednesday 1st September if you have an issue with any module being removed.
 <!--There are regular 'At-Risk' maintenance sessions on Wednesdays from 1000-1200. -->
 
 ## Completed Maintenance Sessions
