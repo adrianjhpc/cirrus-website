@@ -21,7 +21,10 @@ No recent issues
 
 ## Upcoming Maintenance Sessions
 
-There are no planned maintenance sessions. 
+#### Wednesday 8th September
+
+There will be at an at-risk maintenance session from 09:00 to 12:00. At some point during this session, the service node will be rebooted. While it is being rebooted new jobs will not start, and users may experience issues logging in. Currently running jobs should be unaffected. The reboot should take 10-15 minutes.
+
 ### Wednesday 8th September 
 
 #### Modules Deletions
