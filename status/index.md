@@ -78,7 +78,13 @@ As part of our regular maintenance of the Cirrus Service, we would like to remov
 |-
 | singularity/3.7.0	| Please use singularity/3.7.2 (`--with-setuid` install) |
 |-
-| singularity/3.7.1	| Please use singularity/3.7.2 (`--with-setuid` install)|
+| singularity/3.7.1	| Please use singularity/3.7.2 (`--with-setuid` install) |
+|-
+| miniconda3/4.9.2-py38    | Please use miniconda3/4.9.2-gpu |
+|-
+| miniconda3/4.9.2-py38-torch    | Please use miniconda3/4.9.2-gpu-torch |
+|-
+| miniconda3/4.9.2-py38-tensorflow    | Please use miniconda3/4.9.2-gpu-tensorflow |
 
 Please get in touch by Wednesday 1st September if you have an issue with any module being removed.
 <!--There are regular 'At-Risk' maintenance sessions on Wednesdays from 1000-1200. -->
